@@ -22,7 +22,7 @@ help:
 .PHONY: docs
 docs: ## Build project documentation in live reload for editing
 # Spins up livereload environment for editing; blocks.
-	rm -rf "$(BUILDDIR)" && sphinx-autobuild . _build/html -p 8001
+	rm -rf _build && sphinx-autobuild . _build/html -p 8001
 
 .PHONY: html
 html: ## Build project documentation in live reload for editing
