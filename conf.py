@@ -171,3 +171,12 @@ html_sidebars = {
 #        'searchbox.html'
     ]
 }
+
+# 00000000000000000000000000000000000000
+
+
+def source_read_handler(app, docname, source):
+    print('do something here...')
+
+def setup(app):
+    app.connect('source-read', source_read_handler)
