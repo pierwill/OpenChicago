@@ -28,5 +28,5 @@ docs: ## Build project documentation in live reload for editing
 html: ## Build project documentation in live reload for editing
 # Spins up livereload environment for editing; blocks.
 	rm -rf docs/ && sphinx-build "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) \
-	&& touch docs/CNAME \
-	&& echo "openchicago-docs.pierwill.com" > docs/CNAME
+	&& touch docs/CNAME && echo "openchicago-docs.pierwill.com" > docs/CNAME \
+	&& touch docs/.nojekyll
