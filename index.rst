@@ -1,4 +1,4 @@
-**(Work in progress)**
+.. note:: **This is a work in progress**
 
 Readable, attractive documentation is essential to everything from usablility and maintainability to security. 
 But code documentation style guides are often limited to formatting of code blocks and other technical elements.
@@ -9,6 +9,8 @@ There will be multiple versions: from a basic set of code styling and bare-bones
 
 OpenChicago Docs takes its name and organizing principles from the last public-domain edition of the *Chicago Manual of Style* `(7th edition, 1920)`_, and was inspired by working on the documentation for `SecureDrop`_.
 
+:doc:`OpenChicago Style Guide </guide/index>`
+     
 -----
 
 (This project is not affiliated with the University of Chicago or University of Chicago Press.)

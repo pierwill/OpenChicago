@@ -1,62 +1,63 @@
-PUNCTUATION 
+Punctuation
+===========
 
-#. All punctuation marks should be printed in the same 
+#. all punctuation marks should be printed in the same 
 style or font of type as the word, letter, or character 
 immediately preceding them: 
 
-"With the cry of Banzai! the regiment stormed the hill", 
-Luke 4:160; paragraph 2 (a); Botanical Gazette 20:144. 
+"with the cry of banzai! the regiment stormed the hill", 
+luke 4:160; paragraph 2 (a); botanical gazette 20:144. 
 
-PERIOD 
+period 
 
-#. A period is used to indicate the end of a declarative 
+#. a period is used to indicate the end of a declarative 
 sentence (see 125). 
 
-#. a) Put a period after abbreviations: 
+#. a) put a period after abbreviations: 
 
-Macmillan & Co., Mr. Smith, St. Paul, No. i, Chas. (see 
-93), ibid., s.v., ip mm., 1201 E. Main St., SE. J of SW. J, 
-T. 3 N., R. 69 W., Sec. n, middle of S. line, N.NE. (north 
+macmillan & co., mr. smith, st. paul, no. i, chas. (see 
+93), ibid., s.v., ip mm., 1201 e. main st., se. j of sw. j, 
+t. 3 n., r. 69 w., sec. n, middle of s. line, n.ne. (north 
 by northeast) . 
 
-V) Do not use a period after contractions cases 
+v) do not use a period after contractions cases 
 where a mechanical necessity compels the omission 
 of a letter or letters in the middle of a word for which 
 there is no recognized abbreviated form; such omis- 
 sion is indicated by an apostrophe: 
 m'f 'g pl't ( = manufacturing plant) ; 't isn't. 
-c) Treat the metric symbols as abbreviations, but 
+c) treat the metric symbols as abbreviations, but 
 not the chemical symbols, nor the phrase "per 
 cent," nor the format of books: 
-O, Fe; 2 per cent (see 94); 4to, 8vo. 
+o, fe; 2 per cent (see 94); 4to, 8vo. 
 
-NOTE. With respect to symbols for measures the following 
-exceptions should be noted: Astrophysical Journal, 12 mm (with 
-thin space and no period) (but: 2 h 3 m 4 s ); Botanical Gazette, 
+note. with respect to symbols for measures the following 
+exceptions should be noted: astrophysical journal, 12 mm (with 
+thin space and no period) (but: 2 h 3 m 4 s ); botanical gazette, 
 i2mm., i25ft.,9cc. (on line, with period). 
 
 
 
-MANUAL OF STYLE: PUNCTUATION 51 
+manual of style: punctuation 51 
 
-But do not use a period, in technical matter, after the 
+but do not use a period, in technical matter, after the 
 recognized abbreviations for linguistic epochs, or 
 for titles of well-known publications of which the 
-initials only are given, nor after MS (= manuscript), 
-nor after Mme and Mile in French (see 92) : 
-IE (=Indo-European), OE (= Old English), MHG (=Middle 
-High German); AJSL (= American Journal of Semitic 
-Languages and Literatures), ZAW (=Zeitschrijt filr alttesta- 
-mentliche Wissenschaff), CIL (= Cor pus Inscriptionum Lati- 
-norum), PMLA (= Publications of the Modern Language 
-Association}. 
+initials only are given, nor after ms (= manuscript), 
+nor after mme and mile in french (see 92) : 
+ie (=indo-european), oe (= old english), mhg (=middle 
+high german); ajsl (= american journal of semitic 
+languages and literatures), zaw (=zeitschrijt filr alttesta- 
+mentliche wissenschaff), cil (= cor pus inscriptionum lati- 
+norum), pmla (= publications of the modern language 
+association}. 
 
-#. Use no period after Roman numerals, even if having 
+#. use no period after roman numerals, even if having 
 the value of ordinals: 
 
-Vol. IV; Louis XVI was on the throne. 
+vol. iv; louis xvi was on the throne. 
 
-#. Omit the period after running-heads (for explanation 
+#. omit the period after running-heads (for explanation 
 of this and the following terms see 279-83); after 
 centered headlines; after side-heads set in separate 
 lines; after cut-in heads; after box-heads in tables; 
@@ -66,81 +67,81 @@ cate), or which do not make more than a single line
 of type; after date lines at top of communications, 
 and after signatures (see 50) . 
 
-#. The period is always placed inside the quotation 
+#. the period is always placed inside the quotation 
 marks; and inside the parentheses when the matter 
 inclosed is an independent sentence and forms no 
 part of the preceding sentence; otherwise outside: 
 
-Tennyson's "In Memoriam." Put the period inside the 
-quotation marks. (This is a rule without exception.) When 
+tennyson's "in memoriam." put the period inside the 
+quotation marks. (this is a rule without exception.) when 
 tie parentheses form part of the preceding sentence, put 
 the period outside (as, for instance, here). 
 
 
 
-52 THE UNIVERSITY OF CHICAGO PRESS 
+52 the university of chicago press 
 
-EXCLAMATION POINT 
+exclamation point 
 
-#. The exclamation point is used to mark an outcry, or 
+#. the exclamation point is used to mark an outcry, or 
 an emphatic or ironical utterance: 
 
-"Long live the king!" "Heaven forbid!" "Good!" he 
-cried; "How funny this seems!" "This must not be!" The 
-subject of his lecture was "The Thisness of the That"! The 
-speaker went on: "Nobody should leave his home tomorrow 
+"long live the king!" "heaven forbid!" "good!" he 
+cried; "how funny this seems!" "this must not be!" the 
+subject of his lecture was "the thisness of the that"! the 
+speaker went on: "nobody should leave his home tomorrow 
 without a marked ballot in their (!) pocket." 
 
-#. The exclamation point is placed inside the quotation 
+#. the exclamation point is placed inside the quotation 
 
 marks or parentheses when part of the quotation 
 or parenthetical matter; otherwise outside. 
-See illustrations in 127. 
+see illustrations in 127. 
 
-INTERROGATION POINT 
+interrogation point 
 
-#. The interrogation point is used to mark a query, or 
+#. the interrogation point is used to mark a query, or 
 to express a doubt: 
 
-"Who is this ?" The prisoner gave his name as Roger Crown- 
-inshield, the son of an English baronet ( ?). Can the Bible 
+"who is this ?" the prisoner gave his name as roger crown- 
+inshield, the son of an english baronet ( ?). can the bible 
 be applied to children ? is a question involved. 
 
-In Spanish the question mark is expressed before 
+in spanish the question mark is expressed before 
 as well as after the question, but the mark that 
 precedes is inverted. 
 
-Indirect questions should not be followed by an 
+indirect questions should not be followed by an 
 interrogation point: 
-She asked whether he was ill. 
+she asked whether he was ill. 
 
-A technically interrogative sentence disguised as 
+a technically interrogative sentence disguised as 
 a question out of courtesy but actually embody- 
 ing a request does not need the interrogation 
 point: 
-Will you kindly sign and return the inclosed card. 
+will you kindly sign and return the inclosed card. 
 
 
 
-MANUAL OF STYLE: PUNCTUATION 53 
+manual of style: punctuation 53 
 
-#. The interrogation point should be placed inside the 
+#. the interrogation point should be placed inside the 
 quotation marks or parentheses only when it is a 
 part of the quotation or parenthetical matter: 
 
-"Take hold, my son, of the toughest knots in life and try 
+"take hold, my son, of the toughest knots in life and try 
 to untie them; try to be worthy of man's highest estate; 
-have high, noble, manly honor. There is but one test of 
-everything, and that is, Is it right?" (Henry A. Wise). 
-The question: "Who is who, and what is what?" Were 
-you ever in "Tsintsinnati" ? 
+have high, noble, manly honor. there is but one test of 
+everything, and that is, is it right?" (henry a. wise). 
+the question: "who is who, and what is what?" were 
+you ever in "tsintsinnati" ? 
 
-COLON 
+colon 
 
-#. The colon is used to "mark a discontinuity of 
+#. the colon is used to "mark a discontinuity of 
 grammatical construction greater than that indicated 
 by the semicolon and less than that indicated by the 
-period. It is commonly used (i) to emphasize a 
+period. it is commonly used (i) to emphasize a 
 close connection in thought between two clauses 
 each of which forms a complete sentence, and which 
 might with grammatical propriety be separated by 

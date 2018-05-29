@@ -1,9 +1,5 @@
-MANUAL OF STYLE: SPELLING 37 
-
-
-
-SPELLING 
-SPELL OUT 
+Spelling
+========
 
 92. All religious, civil, and military titles of honor and 
 respect, and forms of address, preceding the name, 

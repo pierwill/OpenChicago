@@ -1,5 +1,5 @@
-
-DIVISIONS 
+Divisions
+=========
 
 215. Avoid all unnecessary divisions of words. Wherever 
 consistent with good spacing, carry the whole word 
