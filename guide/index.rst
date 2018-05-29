@@ -1,3 +1,5 @@
+:orphan:
+
 .. contents::
 
 .. include:: code.rst
@@ -10,3 +12,4 @@
 .. include:: divisions.rst
 .. include:: tables.rst
 .. include:: ui.rst
+.. include:: footnotes.rst
