@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'OpenChicago Docs'
+project = 'OpenChicago'
 copyright = '2018, pierwill'
 author = 'pierwill'
 
