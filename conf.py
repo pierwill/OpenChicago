@@ -159,7 +159,7 @@ texinfo_documents = [
 
 html_theme_options = {
     'github_user': 'pierwill',
-    'github_repo': 'OpenChicago-Docs',
+    'github_repo': 'OpenChicago',
     'github_button': 'true',
     'github_count': 'false',
     'github_type': 'none'
