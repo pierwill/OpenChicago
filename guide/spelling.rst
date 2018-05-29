@@ -58,7 +58,7 @@ Chicago, Milwaukee & St. Paul Railroad (not: R.R. orRy.); Fort Wayne, Mount Elia
 105. In most cases, all names of publications. This rule, like many another, is open to modification in particu- lar instances, for expediency, nature of context, authoritative usage, and author's preference. Gen- erally, if in doubt, spell out; good taste will condone offenses in this direction more readily than in the opposite.
 
 106. Names of states, territories, and possessions of the United States following those of towns, as follows, without space between the letters of abbrevia- tions (see 22, 52, 103), when mentioned in lists, signatures, bibliographical matter, etc., but not ordinarily in text-matter:
-     
+
 107. In technical matter (footnote references, bibliogra- phies, etc.), "Company" and "Brothers," and the word "and" (& =" short and" or "ampersand"), in names of commercial firms:
 
      The Macmillan Co., Macmillan & Co., Harper Bros.; Chicago, Milwaukee & St. Paul Railroad.

@@ -1,6 +1,6 @@
 .. note:: **This is a work in progress**
 
-Readable, attractive documentation is essential to everything from usablility and maintainability to security. 
+Readable, attractive documentation is essential to everything from usablility and maintainability to security.
 But code documentation style guides are often limited to formatting of code blocks and other technical elements.
 **OpenChicago Docs** aims to bring the technical precision of code documentation to its natural language style, usage, and punctuation.
 
@@ -9,8 +9,8 @@ There will be multiple versions: from a basic set of code styling and bare-bones
 
 **OpenChicago** takes its name, spirit, and base text from the last public-domain edition of the *Chicago Manual of Style* `(7th edition, 1920)`_. It was inspired by working on the documentation for `SecureDrop`_.
 
-:doc:`OpenChicago Style Guide </guide/index>`
-     
+☞ :doc:`OpenChicago Style Guide </guide/index>`
+
 -----
 
 (This project is not affiliated with the University of Chicago or University of Chicago Press.)
