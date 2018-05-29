@@ -1,3 +1,6 @@
+Quotations
+==========
+
 #. Citations, run into the text, of a passage from an author in his own words (see 85).
 
 #. Quotations from different authors, or from different works by the same author, following each other, uninterrupted by any intervening original matter, or by any reference to their respective sources (other than a reference figure for a footnote), even though such quotations are reduced (see 85-87) .

@@ -1,3 +1,5 @@
+.. contents::
+
 .. include:: capitalization.rst
 .. include:: italics.rst
 .. include:: quotations.rst
