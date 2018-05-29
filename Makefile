@@ -6,7 +6,9 @@ SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = OpenChicagoDocs
 SOURCEDIR     = .
-BUILDDIR      = docs/
+BUILDDIR      = _build
+GH_PAGES_SOURCES = index.rst guide/ _static conf.py Makefile
+
 
 # Put it first so that "make" without argument is like "make help".
 help:
@@ -24,9 +26,16 @@ docs: ## Build project documentation in live reload for editing
 # Spins up livereload environment for editing; blocks.
 	rm -rf _build && sphinx-autobuild . _build/html -p 8001
 
-.PHONY: html
-html: ## Build project documentation in live reload for editing
-# Spins up livereload environment for editing; blocks.
-	rm -rf docs/ && sphinx-build "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) \
-	&& touch docs/CNAME && echo "openchicago.pierwill.com" > docs/CNAME \
-	&& touch docs/.nojekyll
+site:
+	git checkout gh-pages
+	rm -rf _build guide _static _sources
+	git checkout master $(GH_PAGES_SOURCES)
+	git reset HEAD
+	make html
+	cp -r _build/html/* ./
+	rm -rf _build index.rst conf.py Makefile
+	echo "openchicago.pierwill.com" > CNAME
+	touch .nojekyll
+	git add -A
+	git commit -m "Generate gh-pages for `git log master -1 --pretty=short --abbrev-commit`" && \
+	git push origin gh-pages; git checkout master
