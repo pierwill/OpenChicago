@@ -13,25 +13,25 @@ Use of italics
    "Napoleon's coup d'etat";
    "the debater par excellence of the Senate ";
    "De gustibus non est disputandum, or, as the French have it, Chacun & son goto."
- 
+
    But do not italicize foreign titles preceding names,
    or names of foreign institutions or places the meaning
    or position of which in English would have required
    roman type, and which either are without English
    equivalents or are by preference used in lieu of these:
- 
+
    Pere Lagrange, Freiherr von Schwenau; the German
    Reichstag, the Champs Elysees, the Museo delle Tenne;
- 
+
    nor words of everyday occurrence which have become
    sufficiently anglicized, even though still retaining the
    accents of the original language:
- 
- 
+
+
    1 But italicize v. or vs. when standing between two opposing terms not
    themselves italicized (see 63) when otherwise the meaning would not be clear:
    Michigan vs. Minnesota, 3 to o.
- 
+
    But do not hyphenate any of these foreign words
    when used as adjectives.
 
@@ -48,7 +48,7 @@ Use of italics
    But do not italicize
 
    cf., e.g., i.e., v. or vs. (versus) (unless ambiguity would result; see note to 59), viz., etc.
-   
+
 #. Letters used to designate unknown quantities, lines, etc., in algebraic, geometrical, and similar matter: ac+bc=c(a+b); the lines ad and A D; the nth power.
 
 #. As a rule, letters in legends or in the text referring to corresponding letters in accompanying illustra- tions whether or not they are in italics on the illustration :
@@ -67,9 +67,9 @@ Use of italics
 
    G. was not at home when we called."
 
-      
+
 #. In zoological, geological, and paleontological mat- ter, scientific (Latin) names of genera and species when used together, the generic name being in the nominative singular :
-   
+
    Felis leo, Rosa Carolina, Conodectes favosus, Phyteuma Halleri. (See 46, 48.)
 
    In botanical, geological, and paleontological matter, the names of genera and species when used together, and of genera, only, when used alone: Acer saccharum, Basidiobolus, Alternaria, Erythrosuchits.  In medical matter, however, the general practice is to print such names in roman, avoiding italics altogether.

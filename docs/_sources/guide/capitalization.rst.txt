@@ -265,7 +265,7 @@ SET IN SMALL CAPITALS
 
 52. A.M. and P.M. (ante and post meridiem), and B.C.  and A.D. ("before Christ" and anno Domini); these
 
-    24 
+    24
 
     should be set without a space between (see 22,
 
