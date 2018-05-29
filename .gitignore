@@ -2,3 +2,4 @@ _build/
 _build/*
 _templates/
 _templates/*
+guide/full.rst
