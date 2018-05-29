@@ -124,35 +124,35 @@ latex_elements = {
     # 'figure_align': 'htbp',
 }
 
-# Grouping the document tree into LaTeX files. List of tuples
-# (source start file, target name, title,
-#  author, documentclass [howto, manual, or own class]).
-latex_documents = [
-    (master_doc, 'OpenChicagoDocs.tex', 'OpenChicago Docs Documentation',
-     'pierwill', 'manual'),
-]
+# # Grouping the document tree into LaTeX files. List of tuples
+# # (source start file, target name, title,
+# #  author, documentclass [howto, manual, or own class]).
+# latex_documents = [
+#     (master_doc, 'OpenChicagoDocs.tex', 'OpenChicago Docs Documentation',
+#      'pierwill', 'manual'),
+# ]
 
 
-# -- Options for manual page output ------------------------------------------
+# # -- Options for manual page output ------------------------------------------
 
-# One entry per manual page. List of tuples
-# (source start file, name, description, authors, manual section).
-man_pages = [
-    (master_doc, 'openchicagodocs', 'OpenChicago Docs Documentation',
-     [author], 1)
-]
+# # One entry per manual page. List of tuples
+# # (source start file, name, description, authors, manual section).
+# man_pages = [
+#     (master_doc, 'openchicagodocs', 'OpenChicago Docs Documentation',
+#      [author], 1)
+# ]
 
 
-# -- Options for Texinfo output ----------------------------------------------
+# # -- Options for Texinfo output ----------------------------------------------
 
-# Grouping the document tree into Texinfo files. List of tuples
-# (source start file, target name, title, author,
-#  dir menu entry, description, category)
-texinfo_documents = [
-    (master_doc, 'OpenChicagoDocs', 'OpenChicago Docs Documentation',
-     author, 'OpenChicagoDocs', 'One line description of project.',
-     'Miscellaneous'),
-]
+# # Grouping the document tree into Texinfo files. List of tuples
+# # (source start file, target name, title, author,
+# #  dir menu entry, description, category)
+# texinfo_documents = [
+#     (master_doc, 'OpenChicagoDocs', 'OpenChicago Docs Documentation',
+#      author, 'OpenChicagoDocs', 'One line description of project.',
+#      'Miscellaneous'),
+# ]
 
 
 # ---------------------
@@ -176,8 +176,8 @@ html_sidebars = {
 # 00000000000000000000000000000000000000
 
 
-def source_read_handler(app, docname, source):
-    print('do something here...')
+# def source_read_handler(app, docname, source):
+#     print('do something here...')
 
-def setup(app):
-    app.connect('source-read', source_read_handler)
+# def setup(app):
+#     app.connect('source-read', source_read_handler)
