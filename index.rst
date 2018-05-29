@@ -7,7 +7,7 @@ But code documentation style guides are often limited to formatting of code bloc
 **OpenChicago** will allow documentation maintainers to import a set of recommendations for their documentation, whether written by open-source communities, programmers hotfixing at 3am, or professional writers.
 There will be multiple versions: from a basic set of code styling and bare-bones punctuation guidelines, to more sophisticated writing guidelines regarding paragraphing, organization, and style.
 
-**OpenChicago** takes its name and organizing principles from the last public-domain edition of the *Chicago Manual of Style* `(7th edition, 1920)`_, and was inspired by working on the documentation for `SecureDrop`_.
+**OpenChicago** takes its name, spirit, and base text from the last public-domain edition of the *Chicago Manual of Style* `(7th edition, 1920)`_. It was inspired by working on the documentation for `SecureDrop`_.
 
 :doc:`OpenChicago Style Guide </guide/index>`
      
