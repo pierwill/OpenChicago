@@ -33,6 +33,7 @@ ol.arabic {
 
 ol.arabic>li::before {
   position: absolute;
+  color: #8B0000;
   left: -2em;
   counter-increment: thru;
   content: counter(thru);
