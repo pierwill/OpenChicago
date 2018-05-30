@@ -65,3 +65,16 @@ ol.arabic>li::before {
   counter-increment: thru;
   content: counter(thru);
 }
+
+@media only screen and (max-width: 450px) {
+
+  div.body {
+    font-size: 14pt;
+      min-width: 200px;
+      width: 100%;
+  }
+
+  li pre {
+    font-size: 9pt;
+  }
+}
