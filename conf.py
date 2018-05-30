@@ -162,7 +162,8 @@ html_theme_options = {
     'github_repo': 'OpenChicago',
     'github_button': 'true',
     'github_count': 'false',
-    'github_type': 'none'
+    'github_type': 'none',
+    'fixed_sidebar': 'true'
 }
 
 html_sidebars = {
