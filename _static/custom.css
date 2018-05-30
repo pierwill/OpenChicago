@@ -1,3 +1,15 @@
+h1.logo, div#searchbox h3 {
+  font-size: 16pt;
+}
+
+div#searchbox h3 {
+  font-size: 14pt;
+}
+
+pre {
+  font-size: 11pt;
+}
+
 blockquote {
   color: #7e7e7e;
 }

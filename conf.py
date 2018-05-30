@@ -163,7 +163,9 @@ html_theme_options = {
     'github_button': 'true',
     'github_count': 'false',
     'github_type': 'none',
-    'fixed_sidebar': 'true'
+    'fixed_sidebar': 'true',
+    'page_width': '1040px',
+    'sidebar_width': '180px'
 }
 
 html_sidebars = {
