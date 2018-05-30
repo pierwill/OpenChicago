@@ -33,7 +33,8 @@ Capitalization
 
 #. All the principal words (i.e., nouns, pronouns, adjectives, adverbs, verbs, first and last words) in titles of works:
 
-TITLES
+Titles
+------
 
 #. In mentioning titles of newspapers, magazines, and similar publications, do not, as a rule, treat the definite article as part of the title:
 

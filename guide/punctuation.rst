@@ -1,7 +1,8 @@
 Punctuation
 ===========
 
-PERIOD
+Period
+------
 
 #. A period is used to indicate the end of a declarative sentence.
 
@@ -23,7 +24,8 @@ PERIOD
 
      When two parentheses form part of the preceding sentence, put the period outside (as, for instance, here).
    
-EXCLAMATION POINT
+Exclamation Point
+-----------------
 
 #. The exclamation point is used to mark an outcry, or an emphatic or ironical utterance:
 
@@ -31,7 +33,8 @@ EXCLAMATION POINT
 
 #. The exclamation point is placed inside the quotation marks or parentheses when part of the quotation or parenthetical matter; otherwise outside.
 
-QUESTION MARK
+Question Mark
+-------------
 
 #. The interrogation point is used to mark a query, or to express a doubt:
 
@@ -41,7 +44,8 @@ QUESTION MARK
 
      She asked whether he was ill.
 
-COLON
+Colon
+-----
    
 #. the colon is used to mark a discontinuity of grammatical construction greater than that indicated by the semicolon and less than that indicated by the period. It is commonly used (i) to emphasize a close connection in thought between two clauses each of which forms a complete sentence, and which might with grammatical propriety be separated by a period; (2) to separate a clause which is grammatically complete from a second which contains an illustration or amplification of its meaning.
 
@@ -60,7 +64,8 @@ COLON
      He writes under the head of "Notes and Comments":
      "Many a woman can testify to the truth of the old adage:"
 
-SEMICOLON
+Semicolon
+---------
 
 #. A semicolon is used to mark the division of a sentence somewhat more independent than that marked by a comma, or to separate complete statements the argument of which is dependent upon their remaining in the same sentence:
 
@@ -76,7 +81,8 @@ SEMICOLON
 
 #. The semicolon should be placed outside the quotation marks or parentheses, unless a part of the quotation or parenthetical matter.
 
-COMMA
+Comma
+-----
 
 #. The comma is "used to indicate the smallest interruptions in continuity of thought or grammatical construction, the marking of which contributes to clearness.
 
@@ -171,7 +177,8 @@ COMMA
 
 #. The comma is always placed inside the quotation marks, but following the parenthesis, if the con- text requires it at all.
 
-   .. APOSTROPHE
+Apostrophe
+----------
 
 #. An apostrophe is used to mark the omission of a letter or letters in the contraction of a word, or of figures in a number. In the case of contractions containing a verb and the negative, do not use space between the two components of the contraction:
 
@@ -185,9 +192,13 @@ COMMA
 
      in the i goo's; in two's and three's, the three R's, the Y.M.C.A.'s; "these I-just-do-as-I-please's"; "all the Tommy Atkins' of England" (but: the Rosses and the Macdougals); the Pericles' and Socrates' of literature.
 
-QUOTATION MARKS. (See section on "Quotations," 74-91.)
 
-DASHES
+Quotation Marks
+---------------
+See Quotations
+
+Dashes
+------
 
 #. An em dash is used to denote a sudden break, stop, or transition in a sentence, or an abrupt change in its construction, a long or significant pause.
 
@@ -221,7 +232,8 @@ DASHES
 
      Emerson, "To Ellen, at the South."
 
-PARENTHESES
+Parentheses
+-----------
 
 #. Place between parentheses figures or letters used to mark divisions in enumerations run into the text:
 
@@ -233,7 +245,8 @@ PARENTHESES
 
      "He meant I take this to be the (somewhat obscure) sense of his speech that . . . ."; "The period thus inaugurated (of which I shall speak at greater length in the next chapter) was characterized by ...."; "The contention has been made (op. cit.) that . . . ."
 
-BRACKETS
+Brackets
+--------
 
 #. Brackets are used (1) to inclose an explanation or note, (2) to indicate an interpolation in a quotation, to rectify a mistake, (4) to supply an omission, and (5) for parentheses within parentheses:
 
@@ -245,7 +258,8 @@ BRACKETS
 
    Grote, the great historian of Greece (see his History, I, 204 [second edition] ),....
 
-ELLIPSES
+Ellipses
+--------
 
 #. Ellipses are used to indicate the omission, from a quotation, of one or more words not essential to the idea which it is desired to convey, and also to indicate illegible words, mutilations, and other lacunae in a document, manuscript, or other mate- rial which is quoted. For an ellipsis at the begin- ning, in the middle, or at the end of a sentence four periods, separated by a space (en quad), should ordinarily be used, except in very narrow measures (in French three only, with no space between).  If the preceding line ends in a point, this should not be included in the four. Where a "whole para- graph, or paragraphs, or, in poetry, a complete line, or lines, are omitted, insert a full line of periods, separated by em- or 2-em quads, according to the length of the line. But the periods should not extend beyond the length of the longest type-line:
 
@@ -269,7 +283,8 @@ ELLIPSES
 
 #. An ellipsis should be treated as a part of the citation; consequently should be inclosed in the quotation marks (see 178 [3]).
 
-HYPHENS
+Hyphens
+-------
 
 #. Hyphenate two or more words (except proper names forming a unity in themselves) combined into one adjective preceding a noun, or into one pronoun.
 

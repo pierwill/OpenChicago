@@ -14,8 +14,7 @@ On Tools
 --------
 
 Recommending specific documentation tools and platforms is outside the scope of this guide.
-Since it is based on the author's work on `SecureDrop <https://docs.securedrop.org/en/latest/>`_, the examples are for ReStructedText using something like Sphinx or Read the Docs.
-
-But many of the recommandations are applicable to GitHub READMEs in Markdown, for example.
+Since it is based on the author's work on `SecureDrop <https://docs.securedrop.org/en/latest/>`_, the examples use ReStructedText.
+But many of the recommandations are applicable to a GitHub ``README`` in Markdown, for example.
 
 .. note:: Some of the examples here are left intact from the 1920 source text.
