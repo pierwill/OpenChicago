@@ -21,8 +21,13 @@ body {
   counter-reset: thru;
 }
 
+ol.arabic {
+  position: relative;
+}
+
 ol.arabic>li::before {
   position: absolute;
+  left: -2em;
   counter-increment: thru;
   content: counter(thru);
 }
