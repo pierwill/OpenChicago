@@ -16,37 +16,41 @@ Period
 
 #. Do not put a period in titles or section titles.
 
-#. The period is always placed inside the quotation marks, and inside the parentheses when the matter enclosed is an independent sentence and forms no part of the preceding sentence; otherwise outside:
+#. The period is always placed inside the quotation marks, and inside the parentheses when the matter enclosed is an independent sentence and forms no part of the preceding sentence; otherwise outside
 
-   tennyson's "in memoriam." put the period inside the quotation marks. (this is a rule without exception.)
+     The Terms of Service use the word "privacy."
 
    When two parentheses form part of the preceding sentence, put the period outside (as, for instance, here).
 
      When two parentheses form part of the preceding sentence, put the period outside (as, for instance, here).
-   
+
 Exclamation Point
 -----------------
 
-#. The exclamation point is used to mark an outcry, or an emphatic or ironical utterance:
+#. The exclamation point is used to mark an outcry or an emphatic or ironic utterance. They should be used sparringly, but do not be afraid of exclamation points!
 
-     "long live the king!" "heaven forbid!" "good!" he cried; "how funny this seems!" "this must not be!" the subject of his lecture was "the thisness of the that"! the speaker went on: "nobody should leave his home tomorrow without a marked ballot in their (!) pocket."
+#. They are best used in documentation to express of joy or warning.
+
+     You are now ready to play *SimDefenestrationOfPrague*!
+
+     Do not delete ``/usr/bin``!
 
 #. The exclamation point is placed inside the quotation marks or parentheses when part of the quotation or parenthetical matter; otherwise outside.
 
 Question Mark
 -------------
 
-#. The interrogation point is used to mark a query, or to express a doubt:
+#. The question mark is used to mark a query, or to express a doubt.
 
-     "who is this ?" the prisoner gave his name as roger crown- inshield, the son of an english baronet ( ?). can the bible be applied to children ? is a question involved.
+     "Who is this?"
 
-   Indirect questions should not be followed by an interrogation point
+   Indirect questions should not be followed by a question mark.
 
      She asked whether he was ill.
 
 Colon
 -----
-   
+
 #. the colon is used to mark a discontinuity of grammatical construction greater than that indicated by the semicolon and less than that indicated by the period. It is commonly used (i) to emphasize a close connection in thought between two clauses each of which forms a complete sentence, and which might with grammatical propriety be separated by a period; (2) to separate a clause which is grammatically complete from a second which contains an illustration or amplification of its meaning.
 
    "This argument undeniably contains some force: Thus it is well known that . . ." "The secretion of the gland goes on uninterruptedly: this may account for the condition of the organ." "The fear of death is universal: even the lowest animals instinctively shrink from annihilation." (2) "Most countries have a national flower: France the lily, England the rose, etc." "Lambert pine: the gigantic sugar pine of California." (3) "The rule may be stated thus: . . . ." "We quote from the address: . . . ." "Charles: 'Where are you going?' George: 'To the mill-pond.'"  But: "He stoutly maintained that 'the letter is a monstrous forgery'"; and: "Declaring, 'The letter is a monstrous forgery,' he tried to wash his hands of the whole affair."
@@ -264,21 +268,21 @@ Ellipses
 #. Ellipses are used to indicate the omission, from a quotation, of one or more words not essential to the idea which it is desired to convey, and also to indicate illegible words, mutilations, and other lacunae in a document, manuscript, or other mate- rial which is quoted. For an ellipsis at the begin- ning, in the middle, or at the end of a sentence four periods, separated by a space (en quad), should ordinarily be used, except in very narrow measures (in French three only, with no space between).  If the preceding line ends in a point, this should not be included in the four. Where a "whole para- graph, or paragraphs, or, in poetry, a complete line, or lines, are omitted, insert a full line of periods, separated by em- or 2-em quads, according to the length of the line. But the periods should not extend beyond the length of the longest type-line:
 
      The point . . . . is that the same forces .... are still
-  
+
      the undercurrents of every human life We may
-  
+
      never unravel the methods of the physical forces; .....  but ....
-  
+
      I think it worth giving you these details, because it is a vague thing, though a perfectly true thing, to say that it was by his genius that Alexander conquered the eastern world.
-  
+
      His army, you know, was a small one. To carry a
-  
+
      vast number of men ....
-  
+
      "Aux armes! ... aux armes! ... les Prussiens!"
-  
+
      "Je n'ecris que ce que j'ai vu, entendu, senti ou eprouve
-  
+
      moi-me'me ... j'ai deja publie quelques petits ouvrages ..."
 
 #. An ellipsis should be treated as a part of the citation; consequently should be inclosed in the quotation marks (see 178 [3]).

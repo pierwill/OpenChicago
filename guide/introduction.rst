@@ -17,4 +17,7 @@ Recommending specific documentation tools and platforms is outside the scope of 
 Since it is based on the author's work on `SecureDrop <https://docs.securedrop.org/en/latest/>`_, the examples use ReStructedText.
 But many of the recommandations are applicable to a GitHub ``README`` in Markdown, for example.
 
-.. note:: Some of the examples here are left intact from the 1920 source text.
+.. note:: Some of the examples here are left intact from the original 1920 `source`_ text.
+
+.. _`source`: https://archive.org/details/manualofstylecon00univiala
+
