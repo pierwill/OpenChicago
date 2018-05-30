@@ -1,3 +1,8 @@
+div.admonition p.admonition-title {
+  font-size: 14pt;
+  font-weight: bold;
+}
+
 h1.logo, div#searchbox h3 {
   font-size: 16pt;
 }
