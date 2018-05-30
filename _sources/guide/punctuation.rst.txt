@@ -25,7 +25,7 @@ Exclamation Point
 
 #. The exclamation point is used to mark an outcry or an emphatic or ironic utterance. They should be used sparringly, but do not be afraid of exclamation points!
 
-#. Exclamation points are best used in documentation to express of joy or warning.
+#. Exclamation points are best used in documentation to express joy or warning.
 
      You are now ready to play *SimDefenestrationOfPrague*!
 

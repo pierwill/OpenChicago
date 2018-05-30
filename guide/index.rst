@@ -12,7 +12,6 @@
    spelling.rst
    links.rst
    code.rst
-   tables.rst
    notes.rst
    ui.rst
 
