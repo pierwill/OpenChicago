@@ -46,7 +46,7 @@ Question Mark
 
    Indirect questions should not be followed by a question mark.
 
-     She asked whether he was ill.
+     The prompt will ask whether the user wants FAT32 or ExFAT.
 
 Colon
 -----
