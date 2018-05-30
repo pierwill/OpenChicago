@@ -3,7 +3,7 @@ Capitalization
 
 #. Proper nouns and adjectives:
 
-   George, America, North America, Englishman; Elizabethan, French. (See 53.)
+   George, America, North America, Englishman; Elizabethan, French. (See :ref:`here <warn>`.)
 
    Do not capitalize verbs derived from proper names and having a specialized meaning:
 
