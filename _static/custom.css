@@ -1,3 +1,7 @@
+ol.arabic {
+  list-style: none;
+}
+
 div.body h1 {
   color: #999;
   font-size: 18pt;
@@ -10,4 +14,13 @@ div.body a {
 
 div.body a:hover {
   text-decoration: underline;
+}
+
+body {
+  counter-reset: thru;
+}
+
+ol.arabic>li::before {
+  counter-increment: thru;
+  content: counter(thru);
 }
