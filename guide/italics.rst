@@ -22,16 +22,15 @@ Italics
 
      cf., e.g., i.e., v. or vs. (versus)
 
-#. Letters used to designate unknown quantities, lines, etc., in algebraic, geometrical, and similar matter:
+#. Letters used to designate unknown quantities, important constants, lines, etc., in algebraic, geometrical, and similar matter:
 
      *ac* + *bc* = *c* ( *a* + *b* ); the lines *ad* and *AD*; the *n* th power.
 
 #. As a rule, letters in legends or in the text referring to corresponding letters in accompanying illustra- tions whether or not they are in italics on the illustration:
 
-   "At the point A above (see diagram)."
+     "At the point A above (see diagram)."
 
 #. References to particular letters and characters: the letter *u*, a small *v*, a capital *S*.
-
    But do not italicize a letter used in the place of a name in hypothetical statements or in cases where only the initial is used with a dash or as a simple abbreviation :
 
      "A bought land from B without registration of title";

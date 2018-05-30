@@ -23,25 +23,31 @@ Spelling
 
     "The attendance was estimated at five hundred" (but: "at 550"); "a thesis of about three thousand words" (but: "of about 2,700"); "The population of Chicago is approximately three millions" (but: "2,900,000"). Cases like 1,500, if for some special reason spelled out, should be written "fifteen hundred," not "one thousand five hundred."
 
-#. All numbers, no matter how high, and all terms of measurement or number otherwise abbreviated, commencing a sentence in ordinary reading-matter: "Five hundred and ninety-three men, 417 women, and 126 children under eighteen, besides 63 of the crew, went down with the ship"; "Figure 3 shows the comparative difference in prices."
+#. All numbers, no matter how high, and all terms of measurement or number otherwise abbreviated, commencing a sentence in ordinary reading-matter.
 
-    When this is impracticable, or for any reason unde- sirable, reconstruct the sentence; e.g.: "The total number of those who went down with the ship was 593 men," etc.
+     "Five hundred and ninety-three men, 417 women, and 126 children under eighteen, besides 63 of the crew, went down with the ship"; "Figure 3 shows the comparative difference in prices."
 
-#. Sums of money, when occurring in isolated cases in ordinary reading-matter :
+   When this is impractical, or for any reason undesirable, reconstruct the sentence:
 
-    "The admission was two dollars."  When several such numbers occur close together, and in all matter of a statistical character, use figures: "Admission: men, $2; women, $i; children, 25 cents."
+     The total number of those who went down with the ship was 593.
+
+#. Sums of money, when occurring in isolated cases in ordinary reading-matter:
+
+     The admission was two dollars.
+
+   When several such numbers occur close together, and in all matter of a statistical character, use numerals.
 
 #. Time of day, in ordinary reading-matter:
 
-    at four; at half-past two in the afternoon; at seven o'clock.  Statistically, in enumerations, and always in connec- tion with A.M. and P.M., use figures: at 4: 15 P.M. (omit "o'clock" in such connections).
+     at four; at half-past two in the afternoon; at seven o'clock.
+
+   Statistically, in enumerations, and always in connec- tion with A.M. and P.M., use figures:
+
+     at 4:15 P.M.
 
 #. Ages:
 
     eighty years and four months old; children between six and fourteen.
-
-#. Numbers of centuries, of Egyptian dynasties, of sessions of Congress, of military bodies, of political divisions, of thoroughfares, and in all similar cases, unless brevity is an important consideration (see 7, 8, and 13) :
-
-nineteenth century; Fifth Dynasty; Fifty-fourth Congress, second session; Fifteenth Infantry I.N.G.; Sixth Con- gressional District, Second Ward; Fifth Avenue.
 
 #. References to particular decades: in the nineties (see 165).
 
