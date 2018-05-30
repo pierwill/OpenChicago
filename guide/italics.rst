@@ -65,35 +65,7 @@ Use of italics
 
    "The news was brought at once to General M "; "Mr.
 
-   G. was not at home when we called."
-
-
-#. In zoological, geological, and paleontological mat- ter, scientific (Latin) names of genera and species when used together, the generic name being in the nominative singular :
-
-   Felis leo, Rosa Carolina, Conodectes favosus, Phyteuma Halleri. (See 46, 48.)
-
-   In botanical, geological, and paleontological matter, the names of genera and species when used together, and of genera, only, when used alone: Acer saccharum, Basidiobolus, Alternaria, Erythrosuchits.  In medical matter, however, the general practice is to print such names in roman, avoiding italics altogether.
-
-   In astronomical and astrophysical matter :
-   a) The lower-case letters designating certain Fraunhof er lines : a, b, g, h.
-
-   6) The lower-case letters used by Baeyer to desig- nate certain stars in constellations for which the Greek letters have been exhausted: f Tauri, u Herculis.
-
-   c) When initials are used to express the titles of catalogues, as such, and not to designate a particular celestial object, such initials are to be italicized (see 48, 60) : B.D.,N.G.C.
-
-   d} Symbols for the chemical elements: H, Ca, Ti.
-
-   In accordance with the best modern practice, italics should no longer be used for:
-
-   a) The capital letters given by Fraunhofer to spectral lines : A-H, and K.
-
-   6) The letters designating the spectral types of
-
-   stars :
-
-   AS, 64, Mb.
-
-   c) The capital letter H with different Greek letters, used to designate the various lines of hydrogen: Ha, H/?, etc.
+   \G. was not at home when we called."
 
 #. After headlines or titles, as a rule, the word "Con- tinued" ; and "To be continued" at the end of articles (see 179) :
 

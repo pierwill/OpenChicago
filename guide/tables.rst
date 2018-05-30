@@ -1,11 +1,9 @@
 Tables
 ======
 
-
 241. In n-pt. and zo-pt. matter open (unruled) tables should ordinarily be set in 9 pt. leaded; ruled, in 8 pt. solid. In 9-pt. matter both open and ruled tables should be set in 8 pt. solid. In 8-pt. matter open tables should be set in 6 pt. leaded; ruled, in 6 pt. solid. In 6-pt. matter both open and ruled tables should be set in 6 pt. solid. For columns representing totals, averages, percentages, and generalizations italic and black-face figures may be used if desired to set off the various classes of results. (See Table III, p. 100.)
 
 242. Captions for the columns of open tables and box- heads for ruled tables should ordinarily be set in 6 pt. Box-heads of open tables should be 6-pt. caps and lower case unless subheads are used, in which case caps and small caps are used for the upper head (see Table III, p. 100). In ruled tables with box-heads of several stories the upper story pri- mary heads should be set in caps and small caps, except where the second story consists of figures only (see Table I, p. 98) ; the lower secondary in caps and lower case. Wherever small caps are used in box-heads, the heading for the "stub" (i.e., first column) should, as a rule, also be set in caps and small caps.
-
 
 243. In ruled tables there should be at least two leads' space between the horizontal rules and the matter inclosed, and, if practicable, at least the equivalent of an en quad, of the type in which the body of the table is set, between the perpendicular rules and the matter inclosed.
 

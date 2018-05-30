@@ -1,4 +1,6 @@
-UI
-==
+UI Text
+=======
 
-UI text
+#. UI text is in **bold**.
+
+   Click **Preferences**.

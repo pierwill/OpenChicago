@@ -4,7 +4,7 @@ FOOTNOTES
 
      1 In particular the avoidance of hiatus.  p^y+jt*
 
-     * Schenk's equation.
+     Schenk's equation.
 
      When figures are not used, the sequence of indexes should be:
 
@@ -21,7 +21,6 @@ FOOTNOTES
      Ibid., p. 435-
 
      Ibid, should, however, not ordinarily be used for the first footnote on a verso (left-hand) page; it is
-
 
      better usage either to repeat the title or, if the reference is to the whole citation, to use loc. cit.  (the place cited) or op. cit. (the work cited) or a.a.O. (am angezeigten Orte) in German:
 
