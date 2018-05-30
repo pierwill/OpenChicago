@@ -49,35 +49,7 @@ nineteenth century; Fifth Dynasty; Fifty-fourth Congress, second session; Fiftee
 
      from January i to April 15 (omit, after dates, st, d, and th).
 
-#. "United States," except in quotations and such con- nections as: General Schofield, U.S.A.; U.S. SS.  " Oregon"; in footnotes and similar references: U.S.  Geological Survey (see 22, 52, 106).
-
-#. "Railroad (-way)," and "Fort," "Mount," and "Port" in geographical appellations (see 4):
-
-Chicago, Milwaukee & St. Paul Railroad (not: R.R. orRy.); Fort Wayne, Mount Elias, Port Huron.
-
 #. In most cases, all names of publications. This rule, like many another, is open to modification in particu- lar instances, for expediency, nature of context, authoritative usage, and author's preference. Gen- erally, if in doubt, spell out; good taste will condone offenses in this direction more readily than in the opposite.
-
-#. Names of states, territories, and possessions of the United States following those of towns, as follows, without space between the letters of abbrevia- tions (see 22, 52, 103), when mentioned in lists, signatures, bibliographical matter, etc., but not ordinarily in text-matter:
-
-#. In technical matter (footnote references, bibliogra- phies, etc.), "Company" and "Brothers," and the word "and" (& =" short and" or "ampersand"), in names of commercial firms:
-
-     The Macmillan Co., Macmillan & Co., Harper Bros.; Chicago, Milwaukee & St. Paul Railroad.
-
-     In text-matter, not of a technical character, " Com- pany " and " Brothers" may, however, be spelled out:
-
-     "Harper Brothers have recently published . . . ."; "The Century Company announces . . . ."; "The extraordinary story of the South Sea Company."
-
-     And when the name of a commercial concern does not consist of proper names, the "and" should be spelled out:
-
-     American Steel and Wire Co.
-
-#. "Saint" or "Saints" before a name:
-
-     St. Louis, St. Peter's Church, SS. Peter and Paul.
-
-GENERAL RULES
-
-#. In extracts from modern authors whose spelling and punctuation differ but slightly from ours, and where such variations do not affect the meaning, use office style. In citations from Old English works, and in cases where it appears to be essential to the writer's plan or the requirements of the context to give a faithful rendering, follow the original copy.  Titles should always be accurately quoted.
 
 #. Form the possessive of proper names ending in s or another sibilant, if monosyllabic, by adding an apostrophe and s; if of more than one syllable, by adding an apostrophe only, except names ending in -ce (see 165) :
 
@@ -91,18 +63,6 @@ GENERAL RULES
 
      Charlevoix's discoveries, Des Moines's population.
 
-#. Before sounded h, long u (or eu), and the words "one," "once," use "a" as the form of the indefinite article:
-
-     a hotel, a harmonic rendition, a historical work, a union, a euphonious word, such a one.
-
-#. The ligatures & and ce are not used at the present day, either in Latin and Greek words, or in words adopted into English from these languages. In English these words are written either with ae, oe, separately, or with e alone. The ligature is re- tained, however, in Old English and in French:
-
-     aetas; Oedipus Tyrannus; aesthetic; (but: ceuvre, French); but: maneuver; Alfred (Alfred in English).
-
 #. Differentiate "farther" and "further" by using the former in the sense of "more remote," "at a greater distance" (with verbs of action); the latter in the sense of "moreover," "in addition":
 
      the farther end; he went still farther; further, he suggested; a further reason.
-
-#. In forms of address (vocative) use the "O" without a comma following; for an exclamation use "Oh," followed by a comma or an exclamation point (see 40) :
-
-     "O thou most mighty ruler!" "Oh, why did not Cerberus drag me back to hell ?"
