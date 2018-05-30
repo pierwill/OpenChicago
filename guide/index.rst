@@ -1,4 +1,5 @@
 :tocdepth: 1
+:orphan:
 
 .. toctree::
    :hidden:

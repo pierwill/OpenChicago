@@ -1,5 +1,3 @@
-.. _quotes:
-
 Quotations
 ==========
 

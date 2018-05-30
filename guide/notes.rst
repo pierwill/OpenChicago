@@ -1,5 +1,5 @@
-Notes, Warning, etc.
-====================
+Notes, Warnings, etc.
+=====================
 
 #. Don't be afraid to use note blocks.
 

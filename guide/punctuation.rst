@@ -173,7 +173,7 @@ Apostrophe
 
 Quotation Marks
 ---------------
-See :ref:`Quotations <quotes>`.
+See Quotations.
 
 Dashes
 ------
