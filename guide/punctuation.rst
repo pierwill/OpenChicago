@@ -1,99 +1,86 @@
 Punctuation
 ===========
 
-#. a period is used to indicate the end of a declarative sentence (see 125).
+PERIOD
 
-#. put a period after abbreviations:
+#. A period is used to indicate the end of a declarative sentence.
 
-   macmillan & co., mr. smith, st. paul, no. i, chas. (see 93), ibid., s.v., ip mm., 1201 e. main st., se. j of sw. j, . 3 n., r. 69 w., sec. n, middle of s. line, n.ne. (north by northeast) .
+#. Put a period after abbreviations:
 
-   do not use a period after contractions cases where a mechanical necessity compels the omission of a letter or letters in the middle of a word for which there is no recognized abbreviated form; such omis- sion is indicated by an apostrophe: m'f 'g pl't ( = manufacturing plant) ; 't isn't.
-
-   treat the metric symbols as abbreviations, but not the chemical symbols, nor the phrase "per cent," nor the format of books: o, fe; 2 per cent (see 94); 4to, 8vo.
-
-   note. with respect to symbols for measures the following exceptions should be noted: astrophysical journal, 12 mm (with thin space and no period) (but: 2 h 3 m 4 s ); botanical gazette, i2mm., i25ft.,9cc. (on line, with period).
-
-   but do not use a period, in technical matter, after the recognized abbreviations for linguistic epochs, or for titles of well-known publications of which the initials only are given, nor after ms (= manuscript), nor after mme and mile in french (see 92) : ie (=indo-european), oe (= old english), mhg (=middle high german); ajsl (= american journal of semitic languages and literatures), zaw (=zeitschrijt filr alttesta- mentliche wissenschaff), cil (= cor pus inscriptionum lati- norum), pmla (= publications of the modern language association}.
+     Mr. Smith; St. Paul; no. 1
 
 #. use no period after roman numerals, even if having the value of ordinals:
 
-   vol. iv; louis xvi was on the throne.
+     vol. iv; Louis XVI was on the throne.
 
-#. omit the period after running-heads (for explanation of this and the following terms see 279-83); after centered headlines; after side-heads set in separate lines; after cut-in heads; after box-heads in tables; and after superscriptions and legends which do not form a complete sentence (with subject and predi- cate), or which do not make more than a single line of type; after date lines at top of communications, and after signatures (see 50) .
+#. Do not put a period in titles or section titles.
 
-#. the period is always placed inside the quotation marks; and inside the parentheses when the matter inclosed is an independent sentence and forms no part of the preceding sentence; otherwise outside:
+#. The period is always placed inside the quotation marks, and inside the parentheses when the matter enclosed is an independent sentence and forms no part of the preceding sentence; otherwise outside:
 
-   tennyson's "in memoriam." put the period inside the quotation marks. (this is a rule without exception.) when tie parentheses form part of the preceding sentence, put the period outside (as, for instance, here).
+   tennyson's "in memoriam." put the period inside the quotation marks. (this is a rule without exception.)
 
-.. Exclamation Point
+   When two parentheses form part of the preceding sentence, put the period outside (as, for instance, here).
 
-#. the exclamation point is used to mark an outcry, or an emphatic or ironical utterance:
+     When two parentheses form part of the preceding sentence, put the period outside (as, for instance, here).
+   
+EXCLAMATION POINT
 
-   "long live the king!" "heaven forbid!" "good!" he cried; "how funny this seems!" "this must not be!" the subject of his lecture was "the thisness of the that"! the speaker went on: "nobody should leave his home tomorrow without a marked ballot in their (!) pocket."
+#. The exclamation point is used to mark an outcry, or an emphatic or ironical utterance:
 
-#. the exclamation point is placed inside the quotation
+     "long live the king!" "heaven forbid!" "good!" he cried; "how funny this seems!" "this must not be!" the subject of his lecture was "the thisness of the that"! the speaker went on: "nobody should leave his home tomorrow without a marked ballot in their (!) pocket."
 
-   marks or parentheses when part of the quotation or parenthetical matter; otherwise outside.  see illustrations in 127.
+#. The exclamation point is placed inside the quotation marks or parentheses when part of the quotation or parenthetical matter; otherwise outside.
 
-.. interrogation point
+QUESTION MARK
 
-#. the interrogation point is used to mark a query, or to express a doubt:
+#. The interrogation point is used to mark a query, or to express a doubt:
 
-   "who is this ?" the prisoner gave his name as roger crown- inshield, the son of an english baronet ( ?). can the bible be applied to children ? is a question involved.
+     "who is this ?" the prisoner gave his name as roger crown- inshield, the son of an english baronet ( ?). can the bible be applied to children ? is a question involved.
 
-   indirect questions should not be followed by an interrogation point: she asked whether he was ill.
+   Indirect questions should not be followed by an interrogation point
 
-   a technically interrogative sentence disguised as a question out of courtesy but actually embody- ing a request does not need the interrogation point: will you kindly sign and return the inclosed card.
+     She asked whether he was ill.
 
-#. the interrogation point should be placed inside the quotation marks or parentheses only when it is a part of the quotation or parenthetical matter:
-
-   "take hold, my son, of the toughest knots in life and try to untie them; try to be worthy of man's highest estate; have high, noble, manly honor. there is but one test of everything, and that is, is it right?" (henry a. wise).  the question: "who is who, and what is what?" were you ever in "tsintsinnati" ?
-
-#. the colon is used to "mark a discontinuity of grammatical construction greater than that indicated by the semicolon and less than that indicated by the period. it is commonly used (i) to emphasize a close connection in thought between two clauses each of which forms a complete sentence, and which might with grammatical propriety be separated by a period; (2) to separate a clause which is gram- matically complete from a second which contains an illustration or amplification of its meaning; (3) to introduce a formal statement, an extract, a speech in a dialogue, etc." (Century Dictionary] (unless this is preceded by a conjunction, like "that," immediately connecting it with what goes before).  Before the quotation of a clause in the middle of a sentence use a comma:
+COLON
+   
+#. the colon is used to mark a discontinuity of grammatical construction greater than that indicated by the semicolon and less than that indicated by the period. It is commonly used (i) to emphasize a close connection in thought between two clauses each of which forms a complete sentence, and which might with grammatical propriety be separated by a period; (2) to separate a clause which is grammatically complete from a second which contains an illustration or amplification of its meaning.
 
    "This argument undeniably contains some force: Thus it is well known that . . ." "The secretion of the gland goes on uninterruptedly: this may account for the condition of the organ." "The fear of death is universal: even the lowest animals instinctively shrink from annihilation." (2) "Most countries have a national flower: France the lily, England the rose, etc." "Lambert pine: the gigantic sugar pine of California." (3) "The rule may be stated thus: . . . ." "We quote from the address: . . . ." "Charles: 'Where are you going?' George: 'To the mill-pond.'"  But: "He stoutly maintained that 'the letter is a monstrous forgery'"; and: "Declaring, 'The letter is a monstrous forgery,' he tried to wash his hands of the whole affair."
 
-#. The colon thus often takes the place of an implied "namely," "as follows," "for instance," or a similar phrase. Where such word or phrase is used, it should be followed by a colon if what follows consists of one or more grammatically complete clauses (see 36) ; otherwise by a comma (see 145) :
+.. #. The colon thus often takes the place of an implied "namely," "as follows," "for instance," or a similar phrase. Where such word or phrase is used, it should be followed by a colon if what follows consists of one or more grammatically complete clauses (see 36) ; otherwise by a comma (see 145) :
 
      "This is true of only two nations the wealthiest, though not the largest, in Europe: Great Britain and France"; but: "This is true of only two nations the wealthiest, though not the largest, in Europe viz., Great Britain and France."  "He made several absurd statements. For example: ...."; but: "There are several states in the Union for instance, Kansas and Wyoming which . . . ."
 
-#. Put a colon after the salutatory phrase at the begin- ning of a letter and after the introductory remark of a speaker addressing the chairman or the audi- ence:
-
-     MY DEAR MR. BROWN: (See 50.)
-
-     Mr. Chairman, Ladies and Gentlemen: (See 64.)
-
-#. Put a centered (g-unit) colon between chapter and verse in Scripture passages, between hours and minutes in time indications, and between volume and page reference when such style is used: Matt. 2:5-13; 4:30 P.M.; Botanical Gazette 20:144.
-
-#. Put a colon between the place of publication and the publisher's name in literary and bibliographical references :
+.. #. Put a colon between the place of publication and the publisher's name in literary and bibliographical references :
 
      Clement of Alexandria (London: Macmillan), II, 97.
 
 #. The colon should be placed outside the quotation marks, unless a part of the quotation:
 
-     He writes under the head of "Notes and Comments": " Many a man can testify to the truth of the old adage :" etc.
+     He writes under the head of "Notes and Comments":
+     "Many a woman can testify to the truth of the old adage:"
 
-     .. SEMICOLON
+SEMICOLON
 
 #. A semicolon is used to mark the division of a sentence somewhat more independent than that marked by a comma, or to separate complete statements the argument of which is dependent upon their remaining in the same sentence:
 
-     "Are we giving our lives to perpetuate the things that the past has created for its needs, forgetting to ask whether these things still serve today's needs; or are we thinking of living men ?" "This is as important for science as it is for practice; indeed, it may be said to be the only important consideration."  "It is so in war; it is so in the economic life; it cannot be otherwise in religion." "In Persia the final decision rests with the Shah, advised by his ministers; in most constitutional countries, indirectly with the people as represented in parlia- ment; in Switzerland alone, through the referendum, directly with the electorate at large.'' "This, let it be remembered, was the ground taken by Mill; for to him 'utilitarianism,' in spite of all his critics may say, did not mean the pursuit of bodily pleasure." ("For" in such cases should commonly be preceded by a semicolon.)
+     "Are we giving our lives to perpetuate the things that the past has created for its needs, forgetting to ask whether these things still serve today's needs; or are we thinking of living men ?"
+     "This is as important for science as it is for practice; indeed, it may be said to be the only important consideration."
+     "It is so in war; it is so in the economic life; it cannot be otherwise in religion."
+     "In Persia the final decision rests with the Shah, advised by his ministers; in most constitutional countries, indirectly with the people as represented in parlia- ment; in Switzerland alone, through the referendum, directly with the electorate at large."
+     "This, let it be remembered, was the ground taken by Mill; for to him 'utilitarianism,' in spite of all his critics may say, did not mean the pursuit of bodily pleasure."
 
-#. In enumerations use a semicolon between the differ- ent links, if these consist of more than a few words closely connected, and especially if individual clauses contain any punctuation mark of less value than a period, or an exclamation or interrogation point (unless inclosed in parentheses), yet are intimately joined one with the other, and all with the sentence or clause leading up to them, for instance through dependence upon a conjunction, like "that," pre- ceding them (see 36) :
+#. In enumerations, use a semicolon between the different links, if these consist of more than a few words closely connected, and especially if individual clauses contain any punctuation mark of less value than a period, or an exclamation or interrogation point (unless inclosed in parentheses), yet are intimately joined one with the other, and all with the sentence or clause leading up to them, for instance through dependence upon a conjunction, like "that," pre- ceding them (see 36) :
 
      "The membership of the international commission was made up as follows: France, 4; Germany, 5; Great Britain, i (owing to a misunderstanding, the announcement did not reach the English societies in time to secure a full quota from that country. Sir Henry Campbell, who had the matter in charge, being absent at the time, great difficulty was experi- enced in arousing sufficient interest to insure the sending of even a solitary delegate); Italy, 3; the United States, 7."  "The defendant, in justification of his act, pleaded that (i) he was despondent over the loss of his wife; (2) he was out of work; (3) he had had nothing to eat for two days; (4) he was under the influence of liquor." "Presidents Hadley, of Yale; Eliot, of Harvard; Butler, of Columbia; and Angell, of Michigan."
 
-#. The semicolon should be placed outside the quota- tion marks or parentheses, unless a part of the quotation or parenthetical matter.
+#. The semicolon should be placed outside the quotation marks or parentheses, unless a part of the quotation or parenthetical matter.
 
-   .. COMMA
+COMMA
 
-#. The comma is "used to indicate the smallest inter- ruptions in continuity of thought or grammatical construction, the marking of which contributes to clearness" (Century Dictionary)'.
+#. The comma is "used to indicate the smallest interruptions in continuity of thought or grammatical construction, the marking of which contributes to clearness.
 
      "Here, as in many other cases, what is sometimes popularly supposed to be orthodox is really a heresy, an exaggeration, a distortion, a caricature of the true doctrine of the church.  The doctrine is, indeed, laid down by an authority here and there; but, speaking generally, it has no place in the stand- ards, creeds, or confessions of the great communions; e.g., the Apostles' Creed, the Nicene Creed, the canons of the early ecumenical councils, the Westminster Confession, the Thirty- nine Articles." "Shakspere and other, lesser, poets." "The books which I have read I herewith return" (i.e., I return those [only] which I have read); but: "The books, which I have read, I herewith return" (i.e., having read them [all], I now return them). "Gossiping, women are happy"; and: "Gossiping women are happy." "Of these four, two Ameri- cans and one Englishman started"; and: "Of these, four two Americans and two Englishmen started." "The suffer- ing, God will relieve." "Behind, her 'stage mother' stood fluttering with extra wraps." "Some boys and girls pre- maturely announce themselves, usually in uncomfortable, sometimes in bad, ways."
-
-#. Use a comma to separate proper nouns belonging to different individuals or places:
-
-     "To John, Smith was always kind"; "To America, Europe awards the prize of mechanical skill."
 
 #. Put a comma before "and," "or," and "nor" connecting the last two links in a sequence of three or more; or all the links in a series of greater length, or where each individual link consists of several words; always put a comma before "etc.":
 
@@ -131,7 +118,7 @@ Punctuation
 
    "Being asleep, he did not hear him"; "Exhausted by a day's hard work, he slept like a stone."
 
-#. Put a comma before "not" introducing an anti- thetical clause or phrase:
+#. Put a comma before "not" introducing an antithetical clause or phrase:
 
      "Men addict themselves to inferior pleasures, not because they deliberately prefer them, but because they are the only ones to which they have access."
 
@@ -198,53 +185,35 @@ Punctuation
 
      in the i goo's; in two's and three's, the three R's, the Y.M.C.A.'s; "these I-just-do-as-I-please's"; "all the Tommy Atkins' of England" (but: the Rosses and the Macdougals); the Pericles' and Socrates' of literature.
 
-     .. QUOTATION MARKS. (See section on "Quotations," 74-91.)
+QUOTATION MARKS. (See section on "Quotations," 74-91.)
 
-   .. DASHES
+DASHES
 
-#. An em dash is used to denote "a sudden break, stop, or transition in a sentence, or an abrupt change in its construction, a long or significant pause, or an unexpected or epigrammatic turn of sentiment" (John Wilson) :
+#. An em dash is used to denote a sudden break, stop, or transition in a sentence, or an abrupt change in its construction, a long or significant pause.
 
-     "Do we can we send out educated boys and girls from the high school at eighteen ?" "The Platonic world of the static, and the Hegelian world of process how great the contrast!"  " 'Process' that is the magic word of the modern period"; "To be or not to be that is the question"; "Christianity found in the Roman Empire a civic life which was implicated by a thousand roots with pagan faith and cultus a state which offered little."
+   [em dash examples]
 
-#. Use dashes (rarely parentheses see 177) for par- enthetical clauses which are both logically and structurally independent interpolations (see 150):
+.. #. Use dashes (rarely parentheses see 177) for par- enthetical clauses which are both logically and structurally independent interpolations (see 150):
 
      "This may be said to be but, never mind, we will pass over that"; "There came a time let us say, for convenience, with Herodotus and Thucydides when this attention to actions was conscious and deliberate"; "If it be asked and in say- ing this I but epitomize my whole contention why the Mohammedan religion . . . ."
 
-     1 68. A clause added to lend emphasis to, or to explain or expand, a word or phrase occurring in the main clause, which word or phrase is then repeated, should be introduced by a dash:
+   A clause added to lend emphasis to, or to explain or expand, a word or phrase occurring in the main clause, which word or phrase is then repeated, should be introduced by a dash:
 
      "To him they are more important as the sources for history the history of events and ideas"; "Here we are face to face with a new and difficult problem new and difficult, that is, in the sense that . . . . "
 
-#. Wherever a "namely" is implied before a paren- thetical or complementary clause, a dash should preferably be used (see 132) :
+#. Use an en dash in place of the word "to" connecting two words or numbers.
 
-     "These discoveries gunpowder, printing-press, compass, and telescope were the weapons before which the old science trembled"; "But here we are trenching upon another division of our field the interpretation of New Testament books."
+     May–July, 1906; pages 3-7
 
-#. In sentences broken up into clauses, the final summarizing clause should be preceded by a dash :
+   But if the word "from" precedes the first word or number, do not use the dash instead of "to":
 
-     "Amos, with the idea that Jehovah is an upright judge . . . . ; Hosea, whose Master hated injustice and falsehood . . . . ; Isaiah, whose Lord would have mercy only on those who relieved the widow and the fatherless these were the spokesmen . . . '
+     From May 1 to July 1, 1906.
 
-#. a) A word or phrase set in a separate line and suc- ceeded by paragraphs, at the beginning of each of which it is implied, should be followed by a dash :
-
-     "I recommend
-
-     " i. That we kill him.
-
-     "2. That we flay him."
-
-#. Use a dash in place of the word "to" connecting two words or numbers (see 158) :
-
-     May- July, 1906 (en dash); May i, 1905 November i, 1906 (em dash); pp. 3-7 (en dash); Luke 3:6 5:2 (em dash).
-
-     But if the word "from" precedes the first word or number, do not use the dash instead of "to":
-
-     From May i to July i, 1906.
-
-     In connecting consecutive numbers omit hundreds from the second number i.e., use only two figures unless the first number ends in two ciphers, in which case repeat; if the next to the last figure in the first number is a cipher, do not repeat this in the second number; but in citing dates B.C. always repeat the hundreds (because representing a dimi- nution, not an increase) (see 158) :
+   In connecting consecutive numbers omit hundreds from the second number i.e., use only two figures unless the first number ends in two ciphers, in which case repeat; if the next to the last figure in the first number is a cipher, do not repeat this in the second number; but in citing dates B.C. always repeat the hundreds (because representing a dimi- nution, not an increase) (see 158) :
 
      1880-95, PP- 1I 3~ 1 ^', 1900-1906, pp. 102-7; 387-324 B.C.
 
-     NOTE. The Astrophysical Journal and Botanical Gazette re- peat the hundreds' 1880-1895, pp. 113-116.
-
-#. Let a dash precede the reference (author, title of work, or both) following a direct quotation, consisting of at least one complete sentence, in footnotes or cited independently in the text (see 85) :
+.. #. Let a dash precede the reference (author, title of work, or both) following a direct quotation, consisting of at least one complete sentence, in footnotes or cited independently in the text (see 85) :
 
      1 "I felt an emotion of the moral sublime at beholding such an instance of civic heroism." Thirty Years, I, 379.  The green grass is growing,
 
@@ -252,155 +221,77 @@ Punctuation
 
      Emerson, "To Ellen, at the South."
 
-#. A dash should not ordinarily be used in connection with any other point, except a period :
-
-     "DEAR SIR: I have the honor . . . ."; not: "DEAR SIR: I have . . . ."; "This I say it with regret was not done"; not: "This, I say it with regret, was . . . ."
-
-     But in a sentence where a comma would be neces- sary if the parenthetical clause set off by dashes did not exist, the comma may be retained before the first dash:
-
-     Darwin, the promulgator of the theory, though by no means its only supporter is regarded today, etc.
-
-     And when the parenthetical clause set off by dashes itself requires an interrogation or exclamation point, such punctuation may be retained in con- nection with the second dash:
-
-     Senator Blank shall we call him statesman or politician ?  introduced the bill; If the ship should sink which God forbid! he will be a ruined man.
-
-     .. PARENTHESES
+PARENTHESES
 
 #. Place between parentheses figures or letters used to mark divisions in enumerations run into the text:
 
      "The reasons for his resignation were three: (i) advanced age, (2) failing health, (3) a desire to travel."
 
-     If such divisions are paragraphed, a single paren- thesis is ordinarily used in connection with a lower- case (italic) letter; a period, with figures and capital (roman) letters. In syllabi, and matter of a similar character, the following scheme of notation and indention should ordinarily be adhered to:
+   If such divisions are paragraphed, a single paren- thesis is ordinarily used in connection with a lower- case (italic) letter; a period, with figures and capital (roman) letters. In syllabi, and matter of a similar character, the following scheme of notation and indention should ordinarily be adhered to:
 
 #. Parentheses should not ordinarily be used for paren- thetical clauses (see 150 and 167) unless confusion might arise from the use of less distinctive marks, or unless the content of the clause is wholly irrelevant to the main argument:
 
      "He meant I take this to be the (somewhat obscure) sense of his speech that . . . ."; "The period thus inaugurated (of which I shall speak at greater length in the next chapter) was characterized by ...."; "The contention has been made (op. cit.) that . . . ."
 
-     .. BRACKETS
+BRACKETS
 
-#. Brackets are used (i) to inclose an explanation or note, (2) to indicate an interpolation in a quotation,
+#. Brackets are used (1) to inclose an explanation or note, (2) to indicate an interpolation in a quotation, to rectify a mistake, (4) to supply an omission, and (5) for parentheses within parentheses:
 
-     to rectify a mistake, (4) to supply an omission, and (5) for parentheses within parentheses:
+   [This was written before the publication of Spencer's book]
 
-     ' [This was written before the publication of Spencer's book. EDITOR.]
+   "These [the free-silver Democrats] asserted that the present artificial ratio can be maintained indefinitely."
 
-     "These [the free-silver Democrats] asserted that the present artificial ratio can be maintained indefinitely."
+   "As the Italian [Englishman] Dante Gabriel Ros- [s]etti has said, . . . ."
 
-     "As the Italian [Englishman] Dante Gabriel Ros- [s]etti has said, . . . ."
+   Grote, the great historian of Greece (see his History, I, 204 [second edition] ),....
 
-     JohnRuskin. By Henry Carpenter. ["English Men of Letters," III.] London: Black, 1900.
-
-     Grote, the great historian of Greece (see his History, I, 204 [second edition] ),....
-
-#. Such phrases as "To be continued" at the end, and "Continued from . . . ." at the beginning, of articles, chapters, etc., should be placed between brackets, centered, and set in italics (see 73) and in type reduced in size in accordance with the rule governing reductions (see 86) :
-
-     [Continued from p. 320] [To be concluded]
-
-     .. ELLIPSES
+ELLIPSES
 
 #. Ellipses are used to indicate the omission, from a quotation, of one or more words not essential to the idea which it is desired to convey, and also to indicate illegible words, mutilations, and other lacunae in a document, manuscript, or other mate- rial which is quoted. For an ellipsis at the begin- ning, in the middle, or at the end of a sentence four periods, separated by a space (en quad), should ordinarily be used, except in very narrow measures (in French three only, with no space between).  If the preceding line ends in a point, this should not be included in the four. Where a "whole para- graph, or paragraphs, or, in poetry, a complete line, or lines, are omitted, insert a full line of periods, separated by em- or 2-em quads, according to the length of the line. But the periods should not extend beyond the length of the longest type-line:
 
      The point . . . . is that the same forces .... are still
-
+  
      the undercurrents of every human life We may
-
+  
      never unravel the methods of the physical forces; .....  but ....
-
+  
      I think it worth giving you these details, because it is a vague thing, though a perfectly true thing, to say that it was by his genius that Alexander conquered the eastern world.
-
+  
      His army, you know, was a small one. To carry a
-
+  
      vast number of men ....
-
+  
      "Aux armes! ... aux armes! ... les Prussiens!"
-
+  
      "Je n'ecris que ce que j'ai vu, entendu, senti ou eprouve
-
+  
      moi-me'me ... j'ai deja publie quelques petits ouvrages ..."
 
 #. An ellipsis should be treated as a part of the citation; consequently should be inclosed in the quotation marks (see 178 [3]).
 
-   .. HYPHENS
-
-#. A hyphen is placed at the end of a line the remainder of the last word of which is carried to the next line (see section on "Divisions") and between many compound words. The modern tendency is in favor of writing as one two words which, when united, convey but one idea:
-
-     schoolroom, workshop, headquarters.
-
-     Thus far, however, this practice is only a tendency; there are many compound words which are better hyphenated than consolidated. The following rules are designed to cover such cases, but it must be remembered that they are not to be applied in all cases, and that a certain degree of judgment must be exercised in their use.
+HYPHENS
 
 #. Hyphenate two or more words (except proper names forming a unity in themselves) combined into one adjective preceding a noun, or into one pronoun.
 
      so-called Croesus, well-known author, first-class investment, better-trained teachers, high-school course, half-dead horse, much-mooted question, joint-stock company, English-speaking peoples, nineteenth-century progress, white-rat serum, up-to- date machinery, four-year-old boy, house-to-house canvass, go-as-you-please fashion, deceased-wife's-sister bill; the feeble-minded (person) ; but : New Testament times, Old English spelling, an a priori argument.
 
-     Do not hyphenate combinations of adverb and adjective where no ambiguity could result: an ever increasing flood.
+   Do not hyphenate combinations of adverb and adjective where no ambiguity could result.
 
-     Where one of the components contains more than
+     an ever increasing flood.
 
-     one word, an en dash should be used in place of a
+   Where one of the components contains more than one word, an en dash should be used in place of a hyphen.
 
-     But do not connect by a hyphen adjectives or par- ticiples with adverbs ending in "-ly"; nor such combinations as the foregoing when following the noun, or qualifying a predicate: highly developed species; a man well known in the neighbor- hood; the fly-leaf, so called; "Her gown and carriage were strictly up to date."
+     EXAMPLES
 
-#. Hyphenate, as a rule, nouns formed by the combina- tion of two nouns standing in objective relation to each other that is, one of whose components is derived from a transitive verb:
+   But do not connect by a hyphen adjectives or par- ticiples with adverbs ending in "-ly"; nor such combinations as the foregoing when following the noun, or qualifying a predicate: highly developed species; a man well known in the neighbor- hood; the fly-leaf, so called; "Her gown and carriage were strictly up to date."
+
+#. Hyphenate, as a rule, nouns formed by the combination of two nouns standing in objective relation to each other that is, one of whose components is derived from a transitive verb:
 
      mind-reader, story-teller, fool-killer, office-holder, well-wisher, property-owner; hero-worship, wood-turning, clay-modeling, curriculum -making.
 
-     Exceptions are common and brief compounds, un- wieldy formations, or compounds with a special meaning:
+   Exceptions are common and brief compounds, un- wieldy formations, or compounds with a special meaning:
 
      lawgiver, taxpayer, proofreader, bookkeeper, stockholder, freehand, schoolboy, schoolgirl (but: school man, to dis- tinguish from the Schoolmen of the Middle Ages) ; encyclo- pedia compiler; waterproof, concussionproof.
-
-#. A present participle united (i) with a noun to forma new noun with a meaning different from that which would be conveyed by the two words taken separately,
-
-     with a preposition used absolutely (i.e., not gov- erning a following noun), to form a noun, may properly take a hyphen :
-
-     boarding-house, dining-hall, sleeping-room, dwelling-place, printing-office, walking-stick, starting-point, stepping- stone, stumbling-block (but meeting place) ; lean-to.
-
-#. As a general rule, compounds of "book," "house," "mill," "room," "shop," and "work" should be printed as one compact word, without a hyphen, when the prefixed noun contains only one syllable, should be hyphenated when it contains two, and should be printed as two separate words when it contains three or more:
-
-     handbook, schoolbook, notebook, textbook; pocket-book,
-
-     story-book; reference book.
-
-     boathouse, clubhouse, schoolhouse, storehouse; engine-house,
-
-     power-house; business house.
-
-     commill, handmill, sawmill, windmill; water-mill, paper-mill;
-
-     chocolate mill.
-
-     bedroom, classroom, schoolroom, storeroom; lecture-room;
-
-     recitation room; but: drawing-room (sitting-room) ; drawing
-
-     room (for lessons) .
-
-     tinshop, workshop; bucket-shop, tailor-shop; policy shop;
-
-     handwork, woodwork; metal-work; filigree work.
-
-     Exceptions are rare combinations, and such as for appearance' sake would better be separated: wheat mill, school work, home work, class work, book work, team work, source book.
-
-#. Compounds of "maker," "dealer," and other words denoting occupation should ordinarily be hyphen- ated; likewise nouns combined in an adjectival sense before a proper noun:
-
-     harness-maker, book-dealer, (see 184); a soldier-statesman, the poet-artist Rossetti. (Exceptions are a few short words of everyday occurrence: bookmaker, dressmaker, shopgirl.)
-
-#. Compounds of "store" should be hyphenated when the prefix contains only one syllable; otherwise not:
-
-     drug-store, feed-store (but: bookstore); grocery store, dry- goods store.
-
-#. Compounds of "fellow" are hyphenated when forming the first element of the compound:
-
-     fellow-man, fellow-beings; but: playfellow; "Mr. Good- fellow"; politics makes strange bedfellows.
-
-#. Compounds of "father," "mother," "brother," "sister," "daughter," "parent," and "foster" should be hyphenated when forming the first element of the compound:
-
-     father-love (but: fatherland), mother- tongue, brother-officer, sister-nation, foster-son, daughter-cells, parent-word.
-
-#. Compounds of "great," indicating the fourth degree in a direct line of descent, call for a hyphen: great-grandfather, great-grandson.
-
-     1 92. Compounds of " life " and " world " require a hyphen :
-
-     life-history, life-principle (but: lifetime), world-power, world- problem.
 
 #. "Half," "quarter," etc., combined with a noun should be followed by a hyphen:
 
@@ -420,13 +311,7 @@ Punctuation
 
    childlike, homelike, warlike, godlike; eel-like, bell-like; woman-like, business-like; American -like (but: Christlike).
 
-#. "Vice," "ex-," "elect," and "general," constituting parts of titles, should be connected with the chief noun by a hyphen:
-
-   Vice-Consul Taylor, ex-President Cleveland, the governor- elect, the postmaster-general. (But do not hyphenate mili- tary terms such as: surgeon general, lieutenant general.)
-
-#. Compounds of "by-," when this word forms the first element of the compound, should be hyphenated: by-product, by-laws (but: bygones).
-
-#. The prefixes " co-," " pre-," and " re-," when followed by the same vowel as that in which they terminate, or by w or y, or by any letter that forms a diph- thong with the last letter of the prefix, except in very common words, take a hyphen; but, as a rule, they do not when followed by a different vowel or by a consonant, except to avoid mispronunciation :
+.. #. The prefixes " co-," " pre-," and " re-," when followed by the same vowel as that in which they terminate, or by w or y, or by any letter that forms a diph- thong with the last letter of the prefix, except in very common words, take a hyphen; but, as a rule, they do not when followed by a different vowel or by a consonant, except to avoid mispronunciation :
 
      co-operation, pre-empted, re-enter, co-worker, re-yield; but: coequal, coeducation, prearranged, reinstal; cohabita- tion, prehistoric, recast (but: re-use, re-read, co-author).  NOTE. The Botanical Gazette prints: cooperate, reenter, etc.
 
@@ -436,62 +321,14 @@ Punctuation
 
      pre-Raphaelite, re-democratize, re-pulverization; re-cover ( = cover again), re-creation, re-formation (as distinguished from reformation).
 
-#. Omit the hyphen from "today," "tomorrow," "tonight," "viewpoint," "standpoint." (See 119, note.)
-
-#. The negative particles "un-," "in-," "il-," "im-," and "a-" do not usually require a hyphen:
-
-     unmanly, undemocratic, inanimate, indeterminate, illimitable, impersonal, asymmetrical.
-
-     Exceptions would be rare and artificial combinations.  The particle "non-," on the contrary, ordinarily calls for a hyphen, except in the commonest words:
-
-     non-aesthetic, non-subservient, non-contagious, non-ability, non-interference, non-evolutionary, non-membership, non- unionist; but: nonage, nondescript, nonessential, nonplus, nonsense, noncombatant.
-
-#. " Quasi-" prefixed to a noun or an adjective requires a hyphen:
-
-     quasi-corporation, quasi-historical.
-
-#. "Over" and "under" prefixed to a word should not be followed by a hyphen, except in unusual cases:
-
-     overbold, overemphasize, overweight, underfed, underestimate, undersecretary; but: over-soul, under-man, over-spiritualistic.
-
-#. The Latin prepositions "ante," "infra," "inter," "intra," "post," "sub," "super," and "supra," and the Greek preposition "anti" prefixed to a
-
-     word do not ordinarily require a hyphen, unless fol- lowed by the letter with which they terminate, or, in the case of those prefixes ending in a vowel, by -w, by -y, or by a vowel which would form a diphthong in conjunction with the terminal letter:
-
-     antedate, antechamber, antediluvian, inframarginal, inter- national, interstate, intercity, intramural, postscript, post- graduate, postprandial, subconscious, submarine, subtitle, subway, superfine, supraliminal, antidote, antiseptic (but: anti-imperialistic cf. 203), intra-atomic, ante-war, intra- yearly, ante-urban, anti-eclectic.
-
-     Exceptions are such formations as
-
-     ante-bellum, ante-Nicene, anti-Semitic, inter-university, post- revolutionary.
-
-#. "Extra," "pan," and "ultra" as a rule call for a hyphen :
-
-     extra-hazardous, pan -Hellenic, ultra-conservative (but: extraordinary, Ultramontane).
-
 #. In fractional numbers, spelled out, connect by a hyphen the numerator and the denominator, unless either already contains a hyphen:
 
-     "The year is two-thirds gone"; four and five-sevenths; thirty one-hundredths; but: thirty-one hundredths.
+       "The year is two-thirds gone"; four and five-sevenths; thirty one-hundredths; but: thirty-one hundredths.
 
      But do not hyphenate in such cases as
 
-     "One half of his fortune he bequeathed to his widow; the other, to charitable institutions."
+       "One half of his fortune he bequeathed to his widow; the other, to charitable institutions."
 
 #. In the case of two or more compound words occurring together, which have one of their component elements in common, this element is frequently omitted from all but the last word, and its implication should be indicated by a hyphen :
 
-     in English- and Spanish-speaking countries; one-, five-, and ten-cent pieces; "If the student thinks to find this character where many a literary critic is searching in fifth- and tenth- century Europe he must not look outside of manuscript tra- dition."
-
-     NOTE. Some writers regard this hyphen as an objectionable Teutonism.
-
-#. A hyphen is used to indicate a prefix or a suffix, as a particle or syllable, not complete in itself:
-
-     "The prefix a-"; "The Spanish diminutive suffixes -ito and -cita.
-
-#. A hyphen is employed to indicate the syllables of a word:
-
-     di-a-gram, pho-tog-ra-phy.
-
-#. Following is a list of words of everyday occurrence which should be hyphenated, and which do not fall under any of the foregoing classifications :
-
-     after-years death-rate anti-trust first-fruits bas-relief folk-song birth-rate horse-power blood-feud ice-cream blood-relations loan-word coat-of-arms man-of-war cross-reference mid-year
-
-     object-lesson title-page page-proof trade-mark pay-roll wave-length poor-law well-being sea-level well-nigh sense-perception well-wisher subject-matter will-power thought-process
+     in English- and Spanish-speaking countries; one-, five-, and ten-cent pieces; "If the student thinks to find this character where many a literary critic is searching in fifth- and tenth- century Europe he must not look outside of manuscript tradition."
