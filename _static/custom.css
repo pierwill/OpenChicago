@@ -1,3 +1,7 @@
+blockquote {
+  color: #7e7e7e;
+}
+
 ol.arabic {
   list-style: none;
   position: absolute;
@@ -11,10 +15,12 @@ div.body h1 {
 div.body a {
   color: #7e7e7e;
   text-decoration: none;
+  border-bottom: 1px dotted #7e7e7e;
 }
 
 div.body a:hover {
-  text-decoration: underline;
+  text-decoration: none;
+  border-bottom: 1px solid #7e7e7e;
 }
 
 body {
