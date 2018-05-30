@@ -1,4 +1,8 @@
 Notes, Warning, Sidebars, etc.
 ==============================
 
-#. Foo
+#. s ``.. note::``
+
+.. _warn:
+   
+#. f ``.. warning::``

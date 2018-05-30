@@ -1,0 +1,33 @@
+ol.arabic {
+  list-style: none;
+  position: absolute;
+}
+
+div.body h1 {
+  color: #999;
+  font-size: 18pt;
+}
+
+div.body a {
+  color: #7e7e7e;
+  text-decoration: none;
+}
+
+div.body a:hover {
+  text-decoration: underline;
+}
+
+body {
+  counter-reset: thru;
+}
+
+ol.arabic {
+  position: relative;
+}
+
+ol.arabic>li::before {
+  position: absolute;
+  left: -2em;
+  counter-increment: thru;
+  content: counter(thru);
+}
