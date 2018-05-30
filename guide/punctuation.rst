@@ -53,15 +53,9 @@ Colon
 
 #. the colon is used to mark a discontinuity of grammatical construction greater than that indicated by the semicolon and less than that indicated by the period. It is commonly used (i) to emphasize a close connection in thought between two clauses each of which forms a complete sentence, and which might with grammatical propriety be separated by a period; (2) to separate a clause which is grammatically complete from a second which contains an illustration or amplification of its meaning.
 
-   "This argument undeniably contains some force: Thus it is well known that . . ." "The secretion of the gland goes on uninterruptedly: this may account for the condition of the organ." "The fear of death is universal: even the lowest animals instinctively shrink from annihilation." (2) "Most countries have a national flower: France the lily, England the rose, etc." "Lambert pine: the gigantic sugar pine of California." (3) "The rule may be stated thus: . . . ." "We quote from the address: . . . ." "Charles: 'Where are you going?' George: 'To the mill-pond.'"  But: "He stoutly maintained that 'the letter is a monstrous forgery'"; and: "Declaring, 'The letter is a monstrous forgery,' he tried to wash his hands of the whole affair."
+     "The fear of death is universal: even the lowest animals instinctively shrink from annihilation."
 
-.. #. The colon thus often takes the place of an implied "namely," "as follows," "for instance," or a similar phrase. Where such word or phrase is used, it should be followed by a colon if what follows consists of one or more grammatically complete clauses (see 36) ; otherwise by a comma (see 145) :
-
-     "This is true of only two nations the wealthiest, though not the largest, in Europe: Great Britain and France"; but: "This is true of only two nations the wealthiest, though not the largest, in Europe viz., Great Britain and France."  "He made several absurd statements. For example: ...."; but: "There are several states in the Union for instance, Kansas and Wyoming which . . . ."
-
-.. #. Put a colon between the place of publication and the publisher's name in literary and bibliographical references :
-
-     Clement of Alexandria (London: Macmillan), II, 97.
+     "Most countries have a national flower: France the lily, England the rose, etc." "Lambert pine: the gigantic sugar pine of California."
 
 #. The colon should be placed outside the quotation marks, unless a part of the quotation:
 
@@ -74,13 +68,11 @@ Semicolon
 
 #. A semicolon is used to mark the division of a sentence somewhat more independent than that marked by a comma, or to separate complete statements the argument of which is dependent upon their remaining in the same sentence:
 
-     "Are we giving our lives to perpetuate the things that the past has created for its needs, forgetting to ask whether these things still serve today's needs; or are we thinking of living men ?"
      "This is as important for science as it is for practice; indeed, it may be said to be the only important consideration."
-     "It is so in war; it is so in the economic life; it cannot be otherwise in religion."
-     "In Persia the final decision rests with the Shah, advised by his ministers; in most constitutional countries, indirectly with the people as represented in parliament; in Switzerland alone, through the referendum, directly with the electorate at large."
-     "This, let it be remembered, was the ground taken by Mill; for to him 'utilitarianism,' in spite of all his critics may say, did not mean the pursuit of bodily pleasure."
 
-#. In enumerations, use a semicolon between the different links, if these consist of more than a few words closely connected, and especially if individual clauses contain any punctuation mark of less value than a period, or an exclamation or interrogation point (unless inclosed in parentheses), yet are intimately joined one with the other, and all with the sentence or clause leading up to them, for instance through dependence upon a conjunction, like "that," preceding them.
+#. In enumerations, use a semicolon between the items if these consist of more than a few words closely connected, and especially if individual clauses contain any punctuation mark of less value than a period, or an exclamation or interrogation point (unless inclosed in parentheses), yet are intimately joined one with the other, and all with the sentence or clause leading up to them, for instance through dependence upon a conjunction, like "that," preceding them.
+
+     [Examples]
 
 #. The semicolon should be placed outside the quotation marks or parentheses, unless a part of the quotation or parenthetical matter.
 
@@ -101,11 +93,11 @@ Comma
 
      When he arrived at the railway station, the train had gone, and his friend, who had come to bid him goodbye, had departed, but left no word. As the next train was not due for two hours, he decided to take a ride about the town, although it offered little of interest to the sightseer. While he regretted his failure to meet his friend, he did not go to his house.
 
-   But do not use a comma before clauses introduced by such conjunctions if the preceding clause is not logically complete without them; nor before "if," "but," and "though" in brief and close-welded phrases:
+..   But do not use a comma before clauses introduced by such conjunctions if the preceding clause is not logically complete without them; nor before "if," "but," and "though" in brief and close-welded phrases:
 
      "This is especially interesting because they represent the two extremes and because they present differences in their rela- tions"; "This is good because true"; "I shall agree to this only if you accept my conditions"; "I would not if I could, and could not if I would"; "honest though poor"; "a cheap but valuable book."
 
-#. Such conjunctions, adverbs, connective particles, or phrases as "now," "then," "however," "indeed," "therefore," "moreover," "furthermore," "never- theless," "though," "in fact," "in short," "for instance," "that is," "of course," "on the contrary," "on the other hand," "after all," "to be sure," "for example," etc., may be followed by a comma when standing at the beginning of a sentence or clause to introduce an inference or an explanation, and may be placed between commas when wedged into the middle of a sentence or clause to mark off a distinct break in the continuity of thought or struc- ture, indicating a summarizing of what precedes, the point of a new departure, or a modifying, restrict- ive, or antithetical addition, etc. :
+.. #. Such conjunctions, adverbs, connective particles, or phrases as "now," "then," "however," "indeed," "therefore," "moreover," "furthermore," "never- theless," "though," "in fact," "in short," "for instance," "that is," "of course," "on the contrary," "on the other hand," "after all," "to be sure," "for example," etc., may be followed by a comma when standing at the beginning of a sentence or clause to introduce an inference or an explanation, and may be placed between commas when wedged into the middle of a sentence or clause to mark off a distinct break in the continuity of thought or struc- ture, indicating a summarizing of what precedes, the point of a new departure, or a modifying, restrict- ive, or antithetical addition, etc. :
 
      "Indeed, this was exactly the point of the argument"; "Moreover, he did not think it feasible"; "Now, the question is this: . . . ." "Nevertheless, he consented to the scheme"; "In fact, rather thi reverse is true"; "This, then, is my position: . . . ."; "The statement, therefore, cannot be verified"; "He thought, however, that he would like to try"; "That, after all, seemed a trivial matter"; "The gentleman, of course, was wrong";
      "A comma may be used between clauses of a compound sentence that are connected by a simple con junction, though a comma is emphatically not used between clauses connected by a conjunctive adverb."
@@ -114,15 +106,11 @@ Comma
 
      "Therefore I say unto you . . . ."; "He was therefore unable to be present"; "It is nevertheless true"; "He is recovering very slowly indeed"; "He was perhaps thinking of the future"; "He was a scholar and a sportsman too."
 
-#. A comma is preferably omitted before "rather" in such an expression as
-
-     "The time-value is to be measured in this way rather than by the time-equivalent of the strata."
-
 #. If among several adjectives preceding a noun the last bears a more direct relation to the noun than the others, it should not be preceded by a comma:
 
      "the admirable political institutions of the country"; "a hand- some, wealthy young man."
 
-#. Participial clauses, especially such as contain an explanation of the main clause, should usually be set off by a comma :
+#. Participial clauses, especially such as contain an explanation of the main clause, should usually be set off by a comma:
 
      "Being asleep, he did not hear him"; "Exhausted by a day's hard work, he slept like a stone."
 
@@ -130,15 +118,16 @@ Comma
 
      "Men addict themselves to inferior pleasures, not because they deliberately prefer them, but because they are the only ones to which they have access."
 
-   But do not use commas before such words when the thought is incomplete without the following words.
+#. For parenthetical, adverbial, or appositional clauses or phrases use commas to indicate structurally disconnected, but logically integral, interpolations;
 
-#. For parenthetical, adverbial, or appositional clauses or phrases use commas to indicate structurally disconnected, but logically integral, interpolations; dashes to indicate both structurally and logically disconnected insertions ; never use the two together (see 175):
+..     "Since, from the naturalistic point of view, mental states are the concomitants of physiological processes . . . ."; "The French, generally speaking, are a nation of artists"; "The English, highly democratic as they are, nevertheless deem the nobility fundamental to their political and social systems."  "There was a time I forget the exact date when these conditions were changed."
 
-     "Since, from the naturalistic point of view, mental states are the concomitants of physiological processes . . . ."; "The French, generally speaking, are a nation of artists"; "The English, highly democratic as they are, nevertheless deem the nobility fundamental to their political and social systems."  "There was a time I forget the exact date when these conditions were changed."
+.. #. Use a comma to separate two identical or closely similar words, even if the sense or grammatical construction does not require such separation:
 
-#. Use a comma to separate two identical or closely similar words, even if the sense or grammatical con- struction does not require such separation (see 142) :
-
-     "Whatever is, is good"; "What he was, is not known"; "The chief aim of academic striving ought not to be, to be most in evidence "; "This is unique only in this, that . . . ."
+     "Whatever is, is good";
+     "What he was, is not known";
+     "The chief aim of academic striving ought not to be, to be most in evidence ";
+     "This is unique only in this, that . . . ."
 
 #. In adjectival phrases a complementary, qualifying, delimiting, or antithetical adjective added to the main epithet preceding a noun should ordinarily be preceded and followed by a comma:
 
@@ -148,55 +137,43 @@ Comma
 
      ". . . . a shallow body of water connected with, but well protected from, the open sea"; "He was as tall as, though much younger than, his brother"; "The cultivation in our- selves of a sensitive feeling on the subject of veracity is one of the most useful, and the enfeeblement of that feeling one of the most hurtful, things"; "This road leads away from, rather than toward, your destination."
 
-#. Similarly, use a comma to separate two numbers: "In 1905, 347 teachers attended the convention"; November i, 1905. (See 160.)
+#. A direct quotation, maxim, or similar expression, when brief, should be separated from the preceding part of the sentence by a comma.
 
-#. A comma is employed to indicate the omission, for brevity or convenience, of a word or words the repetition of which is not essential to the meaning : "In Illinois there are seventeen such institutions; in Ohio, twenty-two; in Indiana, thirteen" ; "In Lincoln's first cabinet Seward was secretary of state; Chase, of the treasury; Cameron, of war; and Bates, attorney general."
-
-     Often, however, such constructions are smooth enough not to call for commas (and consequent semicolons) : "One puppy may resemble the father, another the mother, and a third some distant ancestor."
-
-#. A direct quotation, maxim, or similar expression, when brief, should be separated from the preceding part of the sentence by a comma (see 131) :
-
-     " God said, Let there be light."
-
-#. Use a comma before "of" in connection with resi- dence or position:
-
-     Mr. and Mrs. Mclntyre, of Detroit, Mich.; President Hadley, of Yale University.
-
-     Exceptions are those cases, historical and political, in which the place-name practically has become a part of the person's name, or is so closely connected with this as to render the separation artificial or illogical:
-
-     Clement of Alexandria, Philip of Anjou, King Edward of England.
+     "God said, Let there be light." [Bad example]
 
 #. Put a comma after digits indicating thousands, 1 except in a date or in a page-reference and not between the constituents of dimensions, weights, and measures:
 
-     1,276, 10,419; 2200 B.C.; p. 2461; 3 feet 6 inches; 4 Ib.  2 oz. ; 2 hr. 4 min.
+     1,276, 10,419; 2200 BCE; p. 2461; 3 feet 6 inches; 4 Ib.  2 oz. ; 2 hr. 4 min.
 
 #. Separate month and year and similar time divisions by a comma:
 
-     November, 1905 ; New Year's Day, 1906.
+     November, 1905;
+     New Year's Day, 1906
 
-#. Omit the comma, in signatures and at the beginning of articles, after author's name followed by address, title, or position in a separate line, or after address followed by a date line, etc. (see 65).
+#. The comma is always placed inside the quotation marks, but following the parenthesis.
 
-#. The comma is always placed inside the quotation marks, but following the parenthesis, if the con- text requires it at all.
+     [Examples]
 
 Apostrophe
 ----------
 
-#. An apostrophe is used to mark the omission of a letter or letters in the contraction of a word, or of figures in a number. In the case of contractions containing a verb and the negative, do not use space between the two components of the contraction:
+#. An apostrophe is used to mark the omission of a letter or letters in the contraction of a word, or of figures in a number.
 
-     it's, ne'er, 'twas, "takin' me 'at"; m'f'g; the class of '96; don't, haven't. (See 123.)
+     it's, ne'er,  the class of '96; don't, haven't.
 
-#. The possessive case of nouns, common and proper, is formed by the addition of an apostrophe, or apostrophe and 5 (see 113) :
+#. The possessive case of nouns, common and proper, is formed by the addition of an apostrophe.
 
-     a man's word, horses' tails; Scott's Ivanhoe, Jones's farms, Themistodes' era; for appearance' sake.
+     horses' tails; Scott's Ivanhoe, Jones's farms, Themistodes' era; for appearance' sake
 
-#. The plural of numerals, and of rare or artificial noun- coinages, is formed by the aid of an apostrophe and s; of proper nouns of more than one syllable ending in a sibilant, by adding an apostrophe alone (mono- syllabic proper names ending in a sibilant add es; others, s) (see 101) :
+
+#. Do not use an apostraphe with the plural of numerals or letters.     
+.. #. The plural of numerals, and of rare or artificial noun- coinages, is formed by the aid of an apostrophe and s; of proper nouns of more than one syllable ending in a sibilant, by adding an apostrophe alone (mono- syllabic proper names ending in a sibilant add es; others, s) (see 101) :
 
      in the i goo's; in two's and three's, the three R's, the Y.M.C.A.'s; "these I-just-do-as-I-please's"; "all the Tommy Atkins' of England" (but: the Rosses and the Macdougals); the Pericles' and Socrates' of literature.
 
-
 Quotation Marks
 ---------------
-See Quotations
+See :ref:`Quotations <quotes>`.
 
 Dashes
 ------
