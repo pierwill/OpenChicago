@@ -3,7 +3,7 @@ OpenChicago
 
 Readable, attractive documentation is essential to everything from usablility and maintainability to security. 
 But code documentation style guides are often limited to formatting of code blocks and other technical elements.
-**OpenChicago Docs** aims to bring the technical precision of code documentation to its natural language style, usage, and punctuation.
+**OpenChicago** aims to bring the technical precision of code documentation to its natural language style, usage, and punctuation.
 
 **OpenChicago** will allow documentation maintainers to import a set of recommendations for their documentation, whether written by open-source communities, programmers hotfixing at 3am, or professional writers.
 There will be multiple versions: from a basic set of code styling and bare-bones punctuation guidelines, to more sophisticated writing guidelines regarding paragraphing, organization, and style.
