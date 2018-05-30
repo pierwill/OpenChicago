@@ -11,8 +11,9 @@ div#searchbox h3 {
   font-size: 14pt;
 }
 
-pre {
+li pre {
   font-size: 11pt;
+  padding: 7px 14px;
 }
 
 blockquote {
