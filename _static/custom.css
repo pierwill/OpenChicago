@@ -1,5 +1,6 @@
 ol.arabic {
   list-style: none;
+  position: absolute;
 }
 
 div.body h1 {
@@ -21,6 +22,7 @@ body {
 }
 
 ol.arabic>li::before {
+  position: absolute;
   counter-increment: thru;
   content: counter(thru);
 }
