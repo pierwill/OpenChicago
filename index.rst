@@ -9,7 +9,7 @@ There will be multiple versions: from a basic set of code styling and bare-bones
 
 **OpenChicago** takes its name, spirit, and base text from the last public-domain edition of the *Chicago Manual of Style* `(7th edition, 1920)`_. It was inspired by working on the documentation for `SecureDrop`_.
 
-.. ☞ :doc:`OpenChicago Style Guide </guide/index>`
+  ☞ :doc:`OpenChicago Style Guide </guide/index>`
 
 -----
 
