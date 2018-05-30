@@ -58,8 +58,9 @@ ol.arabic {
 ol.arabic>li::before {
   position: absolute;
   font-family: sans-serif;
-  font-size: 11pt;
-  color: #e50000;
+  font-size: 10pt;
+  font-weight: bold;
+  color: #000;
   left: -2.25em;
   counter-increment: thru;
   content: counter(thru);
