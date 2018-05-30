@@ -8,6 +8,7 @@ Code Blocks
 
      .. code:: python
 
+	       # like this
 	       text = "unlike like this"
 	       words = text.split()
 	       new_text = str(words[1]) + " " + str(words[2])
