@@ -1,19 +1,17 @@
 Capitalization
 ==============
 
+Capitalize:
+
 #. Proper nouns and adjectives:
 
-     George, America, North America, Englishman; Elizabethan, French.
+     Aaron, Berlin, Oakland, Ubuntu, Tor; Norwegian, Buddhist
 
-     (See :ref:`here <warn>`.)
+   .. (Brand names, project names, software, linux names, commands+programs)
 
-.. #. Ordinals used to designate Egyptian dynasties, sessions of Congress, names of regiments, and in similar connections (see 100):
+#. Abbreviations like PGP, PhD, CS.
 
-     the Eighteenth Dynasty (but: the Ming dynasty), the Fifty-third Congress, the Second Illinois Regiment Band.
-
-#. Abbreviations like PhD, CS.
-
-#. Abbreviations consisting of one letter
+.. #. Abbreviations consisting of one letter
 
      R.V. (Revised Version), F. (Fahrenheit), C. (centigrade), A (angstrom units) (but: p., 1., n., etc.).
 
@@ -25,18 +23,37 @@ Capitalization
 
       "The old adage is true that 'haste makes waste'"; "Two explanations present themselves: either he came too late for the train, or he was detained at the station."
 
-#. As a rule, the first word in sections of an enumera- tion, if any one link contains two or more distinct clauses, separated by a semicolon, colon, or period, unless all are dependent upon the same term pre- ceding and leading up to them (see 138) :
+.. #. As a rule, the first word in sections of an enumer tion, if any one link contains two or more distinct clauses, separated by a semicolon, colon, or period, unless all are dependent upon the same term preceding and leading up to them (see 138) :
 
-    His reasons for refusal were three: (i) He did not have the time. (2) He did not have the means; or, at any rate, had no funds available at the moment. (3) He doubted the feasi- bility of the plan. But: He objected that (i) he did not have the time; (2) he did not have the means; or, at any rate, had no funds available; (3) he doubted the feasibility of the plan.
-
-#. The first word of a cited speech (or thought) in direct discourse, whether preceded by a colon or a comma (on this see 131):
-
-    On leaving he remarked: "Never shall I forget this day"; With the words, "Never shall I forget this day," he departed; I thought to myself: This day I shall never forget (without quotation marks).
-
-#. All the principal words (i.e., nouns, pronouns, adjectives, adverbs, verbs, first and last words) in titles of works:
+    His reasons for refusal were three: (i) He did not have the time. (2) He did not have the means; or, at any rate, had no funds available at the moment. (3) He doubted the feasibility of the plan. But: He objected that (i) he did not have the time; (2) he did not have the means; or, at any rate, had no funds available; (3) he doubted the feasibility of the plan.
 
 Titles
 ------
+    
+#. All the principal words (nouns, pronouns, adjectives, adverbs, verbs, first and last words) in titles and headings.
+
+     .. MORE HERE
+
+#. Capitalize all section headings in title case:
+
+     .. code::
+
+	Before You Begin
+	================
+
+	Read the Docs
+	-------------
+
+   not
+
+     .. code::
+
+	Before you begin
+	================
+
+	Read the docs
+	-------------
+
 
 #. In mentioning titles of newspapers, magazines, and similar publications, do not, as a rule, treat the definite article as part of the title:
 
@@ -50,13 +67,15 @@ Titles
 
      Fifty-first Street, "Lives of Well-known Authors," "World- Dominion of English-speaking Peoples."
 
-#. A.M. and P.M. (ante and post meridiem)
-
-     ?
-
 Lower Case
 ----------
 
+Set in lower case:
+
+#. a.m. and p.m. (*ante meridiem* and *post meridiem*)
+
+     Alerts will go out at 9 a.m.
+     
 #. Minor subdivisions and their abbreviations as
 
      chapter, section, page, article, verse, line, note; chap., sec., p., art., vs., 1., n.

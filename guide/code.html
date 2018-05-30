@@ -19,7 +19,7 @@
   <link rel="stylesheet" href="../_static/custom.css" type="text/css" />
   
   
-  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+  <meta name="viewport" content="width=device-width initial-scale=1" />
 
   </head><body>
   <div class="document">
@@ -43,6 +43,17 @@
 
 
 
+  <!-- <h3><a href="../index.html">Table Of Contents</a></h3> -->
+  <ul>
+<li><a class="reference internal" href="#">Code</a><ul>
+<li><a class="reference internal" href="#code-blocks">Code Blocks</a></li>
+<li><a class="reference internal" href="#commands">Commands</a></li>
+<li><a class="reference internal" href="#paths">Paths</a></li>
+<li><a class="reference internal" href="#documentation">Documentation</a></li>
+</ul>
+</li>
+</ul>
+
 <div id="searchbox" style="display: none" role="search">
   <h3>Quick search</h3>
     <div class="searchformwrapper">
@@ -65,6 +76,61 @@
             
   <div class="section" id="code">
 <h1>Code<a class="headerlink" href="#code" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="code-blocks">
+<h2>Code Blocks<a class="headerlink" href="#code-blocks" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic">
+<li><p class="first">Code should always be set off vertically from the text.</p>
+<blockquote>
+<div><div class="code python highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">text</span> <span class="o">=</span> <span class="s2">&quot;unlike like this&quot;</span>
+<span class="n">words</span> <span class="o">=</span> <span class="n">text</span><span class="o">.</span><span class="n">split</span><span class="p">()</span>
+<span class="n">new_text</span> <span class="o">=</span> <span class="nb">str</span><span class="p">(</span><span class="n">words</span><span class="p">[</span><span class="mi">1</span><span class="p">])</span> <span class="o">+</span> <span class="s2">&quot; &quot;</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">words</span><span class="p">[</span><span class="mi">2</span><span class="p">])</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">new_text</span><span class="p">)</span>
+</pre></div>
+</div>
+</div></blockquote>
+</li>
+</ol>
+</div>
+<div class="section" id="commands">
+<h2>Commands<a class="headerlink" href="#commands" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic">
+<li><p class="first">Ensure that example commands in codeblocks are easy to copy and paste.
+Do not prepend the <code class="docutils literal notranslate"><span class="pre">$</span></code> shell prompt indicator to example commands.</p>
+<div class="code highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">echo</span> <span class="n">hello</span>
+</pre></div>
+</div>
+</li>
+<li><p class="first">In the context of a terminal session with both typed commands and printed
+output text, use <code class="docutils literal notranslate"><span class="pre">$</span></code> before the typed commands:</p>
+<div class="code highlight-default notranslate"><div class="highlight"><pre><span></span>$ echo hello
+hello
+$ echo sunshine
+sunshine
+</pre></div>
+</div>
+</li>
+<li><p class="first">Generally, anything that one might enter at a terminal prompt should be set inline in monotype.</p>
+<blockquote>
+<div><p>Additional development packages need to be installed with <code class="docutils literal notranslate"><span class="pre">apt</span></code>.</p>
+<p>Make sure to <code class="docutils literal notranslate"><span class="pre">cd</span></code> in the repo first.</p>
+<p>There is going to be a lot of <code class="docutils literal notranslate"><span class="pre">grep</span></code> ing going on.</p>
+</div></blockquote>
+<p>(Note the hair space used in the last example to work around RST requiring spaces around inline literals.)</p>
+</li>
+</ol>
+</div>
+<div class="section" id="paths">
+<h2>Paths<a class="headerlink" href="#paths" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic">
+<li><p class="first">Filepaths should be treated as code and set in monotype.</p>
+<blockquote>
+<div><p>Your program is now saved at <code class="docutils literal notranslate"><span class="pre">/usr/home/hello.go</span></code>.</p>
+</div></blockquote>
+</li>
+</ol>
+</div>
+<div class="section" id="documentation">
+<h2>Documentation<a class="headerlink" href="#documentation" title="Permalink to this headline">¶</a></h2>
 <ol class="arabic">
 <li><p class="first">In documentation plain-text, one of two policies should be observed.
 Either the text should be wrapped to 80 characters width, or each sentence should be on its own newline.
@@ -81,22 +147,8 @@ The former improves readability in plain-text, the latter makes for more useful 
 </pre></div>
 </div>
 </li>
-<li><p class="first">Ensure that example commands in codeblocks are easy to copy and paste.
-Do not prepend the <code class="docutils literal notranslate"><span class="pre">$</span></code> shell prompt indicator to example commands.</p>
-<div class="code highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">echo</span> <span class="n">hello</span>
-</pre></div>
-</div>
-</li>
-<li><p class="first">In the context of a terminal session with both typed commands and printed
-output text, use <code class="docutils literal notranslate"><span class="pre">$</span></code> before the typed commands:</p>
-<div class="code highlight-default notranslate"><div class="highlight"><pre><span></span>$ echo hello
-hello
-$ echo sunshine
-sunshine
-</pre></div>
-</div>
-</li>
 </ol>
+</div>
 </div>
 
 

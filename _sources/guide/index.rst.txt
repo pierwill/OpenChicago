@@ -1,4 +1,5 @@
 :tocdepth: 1
+:orphan:
 
 .. toctree::
    :hidden:
@@ -23,6 +24,5 @@
 .. include:: spelling.rst
 .. include:: links.rst
 .. include:: code.rst
-.. include:: tables.rst
 .. include:: notes.rst
 .. include:: ui.rst

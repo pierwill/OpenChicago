@@ -10,10 +10,6 @@ Period
 
      Mr. Smith; St. Paul; no. 1
 
-#. use no period after roman numerals, even if having the value of ordinals:
-
-     vol. iv; Louis XVI was on the throne.
-
 #. Do not put a period in titles or section titles.
 
 #. The period is always placed inside the quotation marks, and inside the parentheses when the matter enclosed is an independent sentence and forms no part of the preceding sentence; otherwise outside
@@ -29,13 +25,13 @@ Exclamation Point
 
 #. The exclamation point is used to mark an outcry or an emphatic or ironic utterance. They should be used sparringly, but do not be afraid of exclamation points!
 
-#. They are best used in documentation to express of joy or warning.
+#. Exclamation points are best used in documentation to express of joy or warning.
 
      You are now ready to play *SimDefenestrationOfPrague*!
 
      Do not delete ``/usr/bin``!
 
-#. The exclamation point is placed inside the quotation marks or parentheses when part of the quotation or parenthetical matter; otherwise outside.
+#. Exclamation points are placed inside the quotation marks or parentheses when part of the quotation or parenthetical matter; otherwise outside.
 
 Question Mark
 -------------
@@ -93,22 +89,11 @@ Comma
 
      When he arrived at the railway station, the train had gone, and his friend, who had come to bid him goodbye, had departed, but left no word. As the next train was not due for two hours, he decided to take a ride about the town, although it offered little of interest to the sightseer. While he regretted his failure to meet his friend, he did not go to his house.
 
-..   But do not use a comma before clauses introduced by such conjunctions if the preceding clause is not logically complete without them; nor before "if," "but," and "though" in brief and close-welded phrases:
-
-     "This is especially interesting because they represent the two extremes and because they present differences in their rela- tions"; "This is good because true"; "I shall agree to this only if you accept my conditions"; "I would not if I could, and could not if I would"; "honest though poor"; "a cheap but valuable book."
-
-.. #. Such conjunctions, adverbs, connective particles, or phrases as "now," "then," "however," "indeed," "therefore," "moreover," "furthermore," "never- theless," "though," "in fact," "in short," "for instance," "that is," "of course," "on the contrary," "on the other hand," "after all," "to be sure," "for example," etc., may be followed by a comma when standing at the beginning of a sentence or clause to introduce an inference or an explanation, and may be placed between commas when wedged into the middle of a sentence or clause to mark off a distinct break in the continuity of thought or struc- ture, indicating a summarizing of what precedes, the point of a new departure, or a modifying, restrict- ive, or antithetical addition, etc. :
-
-     "Indeed, this was exactly the point of the argument"; "Moreover, he did not think it feasible"; "Now, the question is this: . . . ." "Nevertheless, he consented to the scheme"; "In fact, rather thi reverse is true"; "This, then, is my position: . . . ."; "The statement, therefore, cannot be verified"; "He thought, however, that he would like to try"; "That, after all, seemed a trivial matter"; "The gentleman, of course, was wrong";
-     "A comma may be used between clauses of a compound sentence that are connected by a simple con junction, though a comma is emphatically not used between clauses connected by a conjunctive adverb."
-
-   But do not use a comma with such words when the connection is logically close and structurally smooth enough not to call for any pause in reading; with "therefore," "nevertheless," etc., when directly following the verb; with "indeed" when directly preceding or following an adjective or another adverb which it qualifies; nor ordinarily with such terms as "perhaps," "also," "likewise," etc.:
-
-     "Therefore I say unto you . . . ."; "He was therefore unable to be present"; "It is nevertheless true"; "He is recovering very slowly indeed"; "He was perhaps thinking of the future"; "He was a scholar and a sportsman too."
-
 #. If among several adjectives preceding a noun the last bears a more direct relation to the noun than the others, it should not be preceded by a comma:
 
-     "the admirable political institutions of the country"; "a hand- some, wealthy young man."
+     [adjective comma example]
+
+..     "the admirable political institutions of the country"; "a hand- some, wealthy young man."
 
 #. Participial clauses, especially such as contain an explanation of the main clause, should usually be set off by a comma:
 
@@ -116,18 +101,19 @@ Comma
 
 #. Put a comma before "not" introducing an antithetical clause or phrase:
 
-     "Men addict themselves to inferior pleasures, not because they deliberately prefer them, but because they are the only ones to which they have access."
+     [example]
+
+   ..     "Men addict themselves to inferior pleasures, not because they deliberately prefer them, but because they are the only ones to which they have access."
 
 #. For parenthetical, adverbial, or appositional clauses or phrases use commas to indicate structurally disconnected, but logically integral, interpolations;
 
-..     "Since, from the naturalistic point of view, mental states are the concomitants of physiological processes . . . ."; "The French, generally speaking, are a nation of artists"; "The English, highly democratic as they are, nevertheless deem the nobility fundamental to their political and social systems."  "There was a time I forget the exact date when these conditions were changed."
+     Since, from the naturalistic point of view, mental states are the concomitants of physiological processes . . . .
 
-.. #. Use a comma to separate two identical or closely similar words, even if the sense or grammatical construction does not require such separation:
+     The French, generally speaking, are a nation of artists
 
-     "Whatever is, is good";
-     "What he was, is not known";
-     "The chief aim of academic striving ought not to be, to be most in evidence ";
-     "This is unique only in this, that . . . ."
+     The English, highly democratic as they are, nevertheless deem the nobility fundamental to their political and social systems.
+
+     There was a time I forget the exact date when these conditions were changed.
 
 #. In adjectival phrases a complementary, qualifying, delimiting, or antithetical adjective added to the main epithet preceding a noun should ordinarily be preceded and followed by a comma:
 
@@ -165,15 +151,14 @@ Apostrophe
 
      horses' tails; Scott's Ivanhoe, Jones's farms, Themistodes' era; for appearance' sake
 
-
-#. Do not use an apostraphe with the plural of numerals or letters.     
+#. Do not use an apostraphe with the plural of numerals or letters.
 .. #. The plural of numerals, and of rare or artificial noun- coinages, is formed by the aid of an apostrophe and s; of proper nouns of more than one syllable ending in a sibilant, by adding an apostrophe alone (mono- syllabic proper names ending in a sibilant add es; others, s) (see 101) :
 
      in the i goo's; in two's and three's, the three R's, the Y.M.C.A.'s; "these I-just-do-as-I-please's"; "all the Tommy Atkins' of England" (but: the Rosses and the Macdougals); the Pericles' and Socrates' of literature.
 
 Quotation Marks
 ---------------
-See :ref:`Quotations <quotes>`.
+See Quotations.
 
 Dashes
 ------

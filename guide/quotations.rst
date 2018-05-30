@@ -1,31 +1,27 @@
-.. _quotes:
-
 Quotations
 ==========
 
-#. Citations, run into the text, of a passage from an author in his own words (see 85).
+#. Citations, run into the text, of a passage from an author in her own words
 
-#. Quotations from different authors, or from different works by the same author, following each other, uninterrupted by any intervening original matter, or by any reference to their respective sources (other than a reference figure for a footnote), even though such quotations are reduced (see 85-87) .
+#. A word or phrase accompanied by its definition:
 
-#. A word or phrase accompanied by its definition: "Drop-folio" means a page-number at the foot of the page.
+     "Drop-folio" means a page-number at the foot of the page.
 
-#. An unusual, technical, ironical, etc., word or phrase in the text, whether or not accompanied by a word, like "so-called," directing attention to it:
+.. #. An unusual, technical, ironical (etc.) word or phrase, whether or not accompanied by a word, like "so-called," directing attention to it:
 
      Her "five o' clocks" were famous in the neighborhood; She was wearing a gown of "lobster-colored" silk; He was elected "master of the rolls"; We then repaired to what he called his "quarter deck"; A "lead" is then inserted between the lines; This so-called "man of affairs."
 
-#. In translations, the English equivalent of a word, phrase, or passage from a foreign language : Weltanschauung, "world- view" or "fundamental aspect of life"; Mommsen, Rimische Geschichte ("History of Rome").
+.. #. In translations, the English equivalent of a word, phrase, or passage from a foreign language.
 
    In French small angle marks are used for quotation marks; in German two primes on one type body are used.
 
 #. Titles of shorter works like blog posts.
 
-#. Cited titles of subdivisions (e.g., parts, books, chap- ters, etc.) of publications; titles of papers, lectures, sermons, articles, toasts, mottoes, etc.:
+#. Cited titles of subdivisions (e.g., parts, books, chap- ters, etc.) of publications; titles of papers, lectures, articles, etc.
 
-   References to the Preface, Introduction, Table of Contents, Index, etc., of a specific work, should be set with capitals, without quotation marks:
+   References to the Preface, Introduction, Table of Contents, Index, etc., of a specific work, should be set with capitalized, without quotation marks:
 
      Preface, p. iii; "The Introduction contains ...."; "The Appendix occupies a hundred pages"; but: "The book has a very complete index."
-
-GENERAL RULES
 
 #. Quotation marks should always include ellipses, and the phrase "etc." when it otherwise would not be clear that it stands for an omitted part of the matter quoted, perfect clearness in each individual case being the best criterion:
 
