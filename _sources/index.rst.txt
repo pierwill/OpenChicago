@@ -1,4 +1,4 @@
-.. note:: **This is a work in progress**
+.. note:: **This is an early work in progess.**
 
 Readable, attractive documentation is essential to everything from usablility and maintainability to security.
 But code documentation style guides are often limited to formatting of code blocks and other technical elements.
