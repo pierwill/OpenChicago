@@ -1,5 +1,10 @@
 {%- extends "basic/layout.html" %}
 
+{{- metatags }}
+{%- block htmltitle %}
+<title>OpenChicago</title>
+{%- endblock %}
+
 {%- block extrahead %}
   {{ super() }}
   <link rel="stylesheet" href="{{ pathto('_static/custom.css', 1) }}" type="text/css" />

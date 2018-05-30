@@ -1,3 +1,5 @@
+.. title:: Guide
+
 :orphan:
 
 .. include:: introduction.rst   
