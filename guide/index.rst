@@ -2,7 +2,6 @@
 
 .. toctree::
    :hidden:
-   :titles_only:
 
    introduction.rst
    punctuation.rst
