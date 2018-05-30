@@ -12,7 +12,7 @@ There will be multiple versions: from a basic set of code styling and bare-bones
      
 -----
 
-(This project is not affiliated with the University of Chicago or University of Chicago Press.)
+(*This project is not affiliated with the University of Chicago or University of Chicago Press.*)
 
 .. _`(7th edition, 1920)`: https://archive.org/details/manualofstylecon00univiala
 .. _`SecureDrop`: https://docs.securedrop.org/en/latest/

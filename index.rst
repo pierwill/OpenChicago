@@ -1,4 +1,4 @@
-.. note:: **This is an early work in progess.**
+.. note:: **This is an early work in progess.** Do not use as a guide!
 
 Readable, attractive documentation is essential to everything from usablility and maintainability to security.
 But code documentation style guides are often limited to formatting of code blocks and other technical elements.
@@ -13,7 +13,7 @@ There will be multiple versions: from a basic set of code styling and bare-bones
 
 -----
 
-(This project is not affiliated with the University of Chicago or University of Chicago Press.)
+(*This project is not affiliated with the University of Chicago or University of Chicago Press.*)
 
 .. _`(7th edition, 1920)`: https://archive.org/details/manualofstylecon00univiala
 .. _`SecureDrop`: https://docs.securedrop.org/en/latest/
