@@ -66,6 +66,7 @@ Colon
 #. The colon should be placed outside the quotation marks, unless a part of the quotation:
 
      He writes under the head of "Notes and Comments":
+
      "Many a woman can testify to the truth of the old adage:"
 
 Semicolon
@@ -76,43 +77,40 @@ Semicolon
      "Are we giving our lives to perpetuate the things that the past has created for its needs, forgetting to ask whether these things still serve today's needs; or are we thinking of living men ?"
      "This is as important for science as it is for practice; indeed, it may be said to be the only important consideration."
      "It is so in war; it is so in the economic life; it cannot be otherwise in religion."
-     "In Persia the final decision rests with the Shah, advised by his ministers; in most constitutional countries, indirectly with the people as represented in parlia- ment; in Switzerland alone, through the referendum, directly with the electorate at large."
+     "In Persia the final decision rests with the Shah, advised by his ministers; in most constitutional countries, indirectly with the people as represented in parliament; in Switzerland alone, through the referendum, directly with the electorate at large."
      "This, let it be remembered, was the ground taken by Mill; for to him 'utilitarianism,' in spite of all his critics may say, did not mean the pursuit of bodily pleasure."
 
-#. In enumerations, use a semicolon between the different links, if these consist of more than a few words closely connected, and especially if individual clauses contain any punctuation mark of less value than a period, or an exclamation or interrogation point (unless inclosed in parentheses), yet are intimately joined one with the other, and all with the sentence or clause leading up to them, for instance through dependence upon a conjunction, like "that," pre- ceding them (see 36) :
-
-     "The membership of the international commission was made up as follows: France, 4; Germany, 5; Great Britain, i (owing to a misunderstanding, the announcement did not reach the English societies in time to secure a full quota from that country. Sir Henry Campbell, who had the matter in charge, being absent at the time, great difficulty was experi- enced in arousing sufficient interest to insure the sending of even a solitary delegate); Italy, 3; the United States, 7."  "The defendant, in justification of his act, pleaded that (i) he was despondent over the loss of his wife; (2) he was out of work; (3) he had had nothing to eat for two days; (4) he was under the influence of liquor." "Presidents Hadley, of Yale; Eliot, of Harvard; Butler, of Columbia; and Angell, of Michigan."
+#. In enumerations, use a semicolon between the different links, if these consist of more than a few words closely connected, and especially if individual clauses contain any punctuation mark of less value than a period, or an exclamation or interrogation point (unless inclosed in parentheses), yet are intimately joined one with the other, and all with the sentence or clause leading up to them, for instance through dependence upon a conjunction, like "that," preceding them.
 
 #. The semicolon should be placed outside the quotation marks or parentheses, unless a part of the quotation or parenthetical matter.
 
 Comma
 -----
 
-#. The comma is "used to indicate the smallest interruptions in continuity of thought or grammatical construction, the marking of which contributes to clearness.
+#. The comma is used to indicate the smallest interruptions in continuity of thought or grammatical construction, the marking of which contributes to clearness.
 
-     "Here, as in many other cases, what is sometimes popularly supposed to be orthodox is really a heresy, an exaggeration, a distortion, a caricature of the true doctrine of the church.  The doctrine is, indeed, laid down by an authority here and there; but, speaking generally, it has no place in the stand- ards, creeds, or confessions of the great communions; e.g., the Apostles' Creed, the Nicene Creed, the canons of the early ecumenical councils, the Westminster Confession, the Thirty- nine Articles." "Shakspere and other, lesser, poets." "The books which I have read I herewith return" (i.e., I return those [only] which I have read); but: "The books, which I have read, I herewith return" (i.e., having read them [all], I now return them). "Gossiping, women are happy"; and: "Gossiping women are happy." "Of these four, two Ameri- cans and one Englishman started"; and: "Of these, four two Americans and two Englishmen started." "The suffer- ing, God will relieve." "Behind, her 'stage mother' stood fluttering with extra wraps." "Some boys and girls pre- maturely announce themselves, usually in uncomfortable, sometimes in bad, ways."
-
-#. Put a comma before "and," "or," and "nor" connecting the last two links in a sequence of three or more; or all the links in a series of greater length, or where each individual link consists of several words; always put a comma before "etc.":
+#. ("Oxford Comma") Put a comma before "and," "or," and "nor" connecting the last two links in a sequence of three or more; or all the links in a series of greater length, or where each individual link consists of several words; always put a comma before "etc.":
 
      Tom, Dick, and Harry; either copper, silver, or gold; "He was equally familiar with Homer, and Shakspere, and Moliere, and Cervantes, and Goethe, and Ibsen"; "Neither France for her art, nor Germany for her army, nor England for her democracy, etc."
 
-     But do not use a comma where "and," etc., serves to connect all of the links in a brief and close-knit phrase :
+   But do not use a comma where "and," etc., serves to connect all of the links in a brief and close-knit phrase :
 
      "a man good and noble and true"; "I do not remember who wrote the stanza whether it was Shelley or Keats or Moore."
 
-#. Ordinarily, put a comma before and after clauses in- troduced by such conjunctions as "and," "but," "or," "if," "while," "as" (meaning "since"), "whereas," "since," "because," "when," "after," "although," etc., especially if a change of subject takes place:
+#. Ordinarily, put a comma before and after clauses introduced by such conjunctions as "and," "but," "or," "if," "while," "as" (meaning "since"), "whereas," "since," "because," "when," "after," "although," etc., especially if a change of subject takes place:
 
-     "When he arrived at the railway station, the train had gone, and his friend, who had come to bid him goodbye, had departed, but left no word. As the next train was not due for two hours, he decided to take a ride about the town, although it offered little of interest to the sightseer. While he regretted his failure to meet his friend, he did not go to his house."
+     When he arrived at the railway station, the train had gone, and his friend, who had come to bid him goodbye, had departed, but left no word. As the next train was not due for two hours, he decided to take a ride about the town, although it offered little of interest to the sightseer. While he regretted his failure to meet his friend, he did not go to his house.
 
-     But do not use a comma before clauses introduced by such conjunctions if the preceding clause is not logically complete without them; nor before "if," "but," and "though" in brief and close-welded phrases:
+   But do not use a comma before clauses introduced by such conjunctions if the preceding clause is not logically complete without them; nor before "if," "but," and "though" in brief and close-welded phrases:
 
      "This is especially interesting because they represent the two extremes and because they present differences in their rela- tions"; "This is good because true"; "I shall agree to this only if you accept my conditions"; "I would not if I could, and could not if I would"; "honest though poor"; "a cheap but valuable book."
 
 #. Such conjunctions, adverbs, connective particles, or phrases as "now," "then," "however," "indeed," "therefore," "moreover," "furthermore," "never- theless," "though," "in fact," "in short," "for instance," "that is," "of course," "on the contrary," "on the other hand," "after all," "to be sure," "for example," etc., may be followed by a comma when standing at the beginning of a sentence or clause to introduce an inference or an explanation, and may be placed between commas when wedged into the middle of a sentence or clause to mark off a distinct break in the continuity of thought or struc- ture, indicating a summarizing of what precedes, the point of a new departure, or a modifying, restrict- ive, or antithetical addition, etc. :
 
-     "Indeed, this was exactly the point of the argument"; "Moreover, he did not think it feasible"; "Now, the question is this: . . . ." "Nevertheless, he consented to the scheme"; "In fact, rather thi reverse is true"; "This, then, is my position: . . . ."; "The statement, therefore, cannot be verified"; "He thought, however, that he would like to try"; "That, after all, seemed a trivial matter"; "The gentleman, of course, was wrong"; "A comma may be used between clauses of a compound sentence that are connected by a simple con junction, though a comma is emphatically not used between clauses connected by a conjunctive adverb."
+     "Indeed, this was exactly the point of the argument"; "Moreover, he did not think it feasible"; "Now, the question is this: . . . ." "Nevertheless, he consented to the scheme"; "In fact, rather thi reverse is true"; "This, then, is my position: . . . ."; "The statement, therefore, cannot be verified"; "He thought, however, that he would like to try"; "That, after all, seemed a trivial matter"; "The gentleman, of course, was wrong";
+     "A comma may be used between clauses of a compound sentence that are connected by a simple con junction, though a comma is emphatically not used between clauses connected by a conjunctive adverb."
 
-     But do not use a comma with such words when the connection is logically close and structurally smooth enough not to call for any pause in reading; with "therefore," "nevertheless," etc., when directly following the verb; with "indeed" when directly preceding or following an adjective or another adverb which it qualifies; nor ordinarily with such terms as "perhaps," "also," "likewise," etc.:
+   But do not use a comma with such words when the connection is logically close and structurally smooth enough not to call for any pause in reading; with "therefore," "nevertheless," etc., when directly following the verb; with "indeed" when directly preceding or following an adjective or another adverb which it qualifies; nor ordinarily with such terms as "perhaps," "also," "likewise," etc.:
 
      "Therefore I say unto you . . . ."; "He was therefore unable to be present"; "It is nevertheless true"; "He is recovering very slowly indeed"; "He was perhaps thinking of the future"; "He was a scholar and a sportsman too."
 
@@ -126,13 +124,13 @@ Comma
 
 #. Participial clauses, especially such as contain an explanation of the main clause, should usually be set off by a comma :
 
-   "Being asleep, he did not hear him"; "Exhausted by a day's hard work, he slept like a stone."
+     "Being asleep, he did not hear him"; "Exhausted by a day's hard work, he slept like a stone."
 
 #. Put a comma before "not" introducing an antithetical clause or phrase:
 
      "Men addict themselves to inferior pleasures, not because they deliberately prefer them, but because they are the only ones to which they have access."
 
-     But do not use commas before such words when the thought is incomplete without the following words.
+   But do not use commas before such words when the thought is incomplete without the following words.
 
 #. For parenthetical, adverbial, or appositional clauses or phrases use commas to indicate structurally disconnected, but logically integral, interpolations; dashes to indicate both structurally and logically disconnected insertions ; never use the two together (see 175):
 
@@ -172,7 +170,6 @@ Comma
 
      1,276, 10,419; 2200 B.C.; p. 2461; 3 feet 6 inches; 4 Ib.  2 oz. ; 2 hr. 4 min.
 
-
 #. Separate month and year and similar time divisions by a comma:
 
      November, 1905 ; New Year's Day, 1906.
@@ -206,7 +203,7 @@ Dashes
 
 #. An em dash is used to denote a sudden break, stop, or transition in a sentence, or an abrupt change in its construction, a long or significant pause.
 
-   [em dash examples]
+     [em dash examples]
 
 .. #. Use dashes (rarely parentheses see 177) for par- enthetical clauses which are both logically and structurally independent interpolations (see 150):
 
@@ -243,8 +240,6 @@ Parentheses
 
      "The reasons for his resignation were three: (i) advanced age, (2) failing health, (3) a desire to travel."
 
-   If such divisions are paragraphed, a single paren- thesis is ordinarily used in connection with a lower- case (italic) letter; a period, with figures and capital (roman) letters. In syllabi, and matter of a similar character, the following scheme of notation and indention should ordinarily be adhered to:
-
 #. Parentheses should not ordinarily be used for paren- thetical clauses (see 150 and 167) unless confusion might arise from the use of less distinctive marks, or unless the content of the clause is wholly irrelevant to the main argument:
 
      "He meant I take this to be the (somewhat obscure) sense of his speech that . . . ."; "The period thus inaugurated (of which I shall speak at greater length in the next chapter) was characterized by ...."; "The contention has been made (op. cit.) that . . . ."
@@ -254,13 +249,13 @@ Brackets
 
 #. Brackets are used (1) to inclose an explanation or note, (2) to indicate an interpolation in a quotation, to rectify a mistake, (4) to supply an omission, and (5) for parentheses within parentheses:
 
-   [This was written before the publication of Spencer's book]
+     [This was written before the publication of Spencer's book]
 
-   "These [the free-silver Democrats] asserted that the present artificial ratio can be maintained indefinitely."
+     "These [the free-silver Democrats] asserted that the present artificial ratio can be maintained indefinitely."
 
-   "As the Italian [Englishman] Dante Gabriel Ros- [s]etti has said, . . . ."
+     "As the Italian [Englishman] Dante Gabriel Ros- [s]etti has said, . . . ."
 
-   Grote, the great historian of Greece (see his History, I, 204 [second edition] ),....
+     Grote, the great historian of Greece (see his History, I, 204 [second edition] ),....
 
 Ellipses
 --------
@@ -308,27 +303,23 @@ Hyphens
 
      mind-reader, story-teller, fool-killer, office-holder, well-wisher, property-owner; hero-worship, wood-turning, clay-modeling, curriculum -making.
 
-   Exceptions are common and brief compounds, un- wieldy formations, or compounds with a special meaning:
-
-     lawgiver, taxpayer, proofreader, bookkeeper, stockholder, freehand, schoolboy, schoolgirl (but: school man, to dis- tinguish from the Schoolmen of the Middle Ages) ; encyclo- pedia compiler; waterproof, concussionproof.
-
 #. "Half," "quarter," etc., combined with a noun should be followed by a hyphen:
 
    half-truth, half- tone; half-year, half-title, quarter-mile; but not the adverb "halfway."
 
 #. "Semi-," "demi-," "bi-," "tri-," etc., do not ordina- rily demand a hyphen, unless followed by i, w, or y:
 
-   semiannual, demigod, bipartisan, bichromate, bimetallist, trimonthly, tricolor, trifoliate, semi-incandescent, bi- weekly, tri-yearly.
+     semiannual, demigod, bipartisan, bichromate, bimetallist, trimonthly, tricolor, trifoliate, semi-incandescent, bi- weekly, tri-yearly.
 
 #. Compounds of "self," when this word forms the first element of the compound, are hyphenated: self-evident, self-respect.
 
 #. Combinations with "fold" are to be printed as one word if the number contains only one syllable; if it contains more, as two:
 
-   twofold, tenfold; fifteen fold, a hundred fold.
+     twofold, tenfold; fifteen fold, a hundred fold.
 
 #. Adjectives formed by the suffixation of "like" to a noun are usually printed as one word if the noun contains only one syllable (except when ending in /); if it contains more (or is a proper noun), they should be hyphenated:
 
-   childlike, homelike, warlike, godlike; eel-like, bell-like; woman-like, business-like; American -like (but: Christlike).
+     childlike, homelike, warlike, godlike; eel-like, bell-like; woman-like, business-like; American -like (but: Christlike).
 
 .. #. The prefixes " co-," " pre-," and " re-," when followed by the same vowel as that in which they terminate, or by w or y, or by any letter that forms a diph- thong with the last letter of the prefix, except in very common words, take a hyphen; but, as a rule, they do not when followed by a different vowel or by a consonant, except to avoid mispronunciation :
 

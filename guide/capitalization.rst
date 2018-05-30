@@ -3,9 +3,11 @@ Capitalization
 
 #. Proper nouns and adjectives:
 
-     George, America, North America, Englishman; Elizabethan, French. (See :ref:`here <warn>`.)
+     George, America, North America, Englishman; Elizabethan, French.
 
-#. Ordinals used to designate Egyptian dynasties, sessions of Congress, names of regiments, and in similar connections (see 100):
+     (See :ref:`here <warn>`.)
+
+.. #. Ordinals used to designate Egyptian dynasties, sessions of Congress, names of regiments, and in similar connections (see 100):
 
      the Eighteenth Dynasty (but: the Ming dynasty), the Fifty-third Congress, the Second Illinois Regiment Band.
 
@@ -38,49 +40,26 @@ Titles
 
 #. In mentioning titles of newspapers, magazines, and similar publications, do not, as a rule, treat the definite article as part of the title:
 
-    the Chicago Tribune, the School Review, the Annual Register of the University of Chicago.
+     the Chicago Tribune, the School Review, the Annual Register of the University of Chicago.
 
 #. In titles with the main words capitalized, all nouns forming parts of hyphenated compounds:
 
-     "Twentieth-Century Progress," "The Economy of High- Speed Trains."
-     
-     But do not capitalize such components when other than nouns:
-     
+     "Set-Up the Server"
+
+   But do not capitalize such components when other than nouns:
+
      Fifty-first Street, "Lives of Well-known Authors," "World- Dominion of English-speaking Peoples."
-     
-     And in side-heads do not capitalize any but the first word and proper nouns (see 56 and 172).
-
-#. The names of town and state in the date line, and the salutatory phrase at the beginning, of letters, and the signature and residence at the end of letters or articles, etc.:
-
-     CHICAGO, ILL., January i, 1911
-
-     (Set to the right, with one em's indention, and preferably in smaller type than the body of the letter.)
-
-     MY DEAR MR. SMITH:
-
-     (Set flush, followed by a colon, in the same type as the body of the letter, and in a separate line, unless preceded by another line giving the name and address, in which case it
-
-     should be run in with the text of the letter, indented as a paragraph [see 64].)
-
-     CHARLES W. SCOTT
-
-     (Set to the right, with one em's indention, and in the same type as the body of the letter or article.)
-
-     HARVARD UNIVERSITY
-
-     CAMBRIDGE, MASS.
-
-     June 7, 1911
-
-     (Set to the left, with two ems' indention, in smaller type.)  (Each line of the address should be in caps and small caps, and should be centered on the one preceding. The date should be in caps and lower case, likewise centered on those above.)
 
 #. A.M. and P.M. (ante and post meridiem)
 
      ?
 
-#. In literary references, such minor subdivisions and their abbreviations as
+Lower Case
+----------
 
-     chapter, section, page, article, verse, line, note; chap., sec., p., art., vs., 1., n. (See 37, no, and 237.)
+#. Minor subdivisions and their abbreviations as
+
+     chapter, section, page, article, verse, line, note; chap., sec., p., art., vs., 1., n.
 
 #. Units of measurement as
 
@@ -88,4 +67,4 @@ Titles
 
 #. The first word of a quotation which, through a con- junction or otherwise, is immediately connected with what precedes, even if such word in the original begins a sentence.
 
-     For illustration and exception see 35 and 131. 
+     For illustration and exception see 35 and 131.
