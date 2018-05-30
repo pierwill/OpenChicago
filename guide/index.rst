@@ -1,5 +1,6 @@
 :orphan:
 
+.. include:: introduction.rst   
 .. include:: punctuation.rst
 .. include:: capitalization.rst
 .. include:: italics.rst
