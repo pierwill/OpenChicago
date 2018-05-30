@@ -7,7 +7,7 @@ SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = OpenChicagoDocs
 SOURCEDIR     = .
 BUILDDIR      = _build
-GH_PAGES_SOURCES = index.rst guide/ _static conf.py Makefile
+GH_PAGES_SOURCES = index.rst guide/ _static _templates/ conf.py Makefile
 
 
 # Put it first so that "make" without argument is like "make help".
@@ -28,7 +28,7 @@ docs: ## Build project documentation in live reload for editing
 
 site:
 	git checkout gh-pages
-	rm -rf _build guide _static _sources
+	rm -rf _build guide _static _sources _templates
 	git checkout master $(GH_PAGES_SOURCES)
 	git reset HEAD
 	make html
