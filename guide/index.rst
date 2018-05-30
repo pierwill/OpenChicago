@@ -1,8 +1,22 @@
-.. title:: Guide
+:tocdepth: 1
 
-:orphan:
+.. toctree::
+   :hidden:
+   :titles_only:
 
-.. include:: introduction.rst   
+   introduction.rst
+   punctuation.rst
+   capitalization.rst
+   italics.rst
+   quotations.rst
+   spelling.rst
+   links.rst
+   code.rst
+   tables.rst
+   notes.rst
+   ui.rst
+
+.. include:: introduction.rst
 .. include:: punctuation.rst
 .. include:: capitalization.rst
 .. include:: italics.rst
