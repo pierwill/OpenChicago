@@ -6,7 +6,7 @@ Programmers are writers, whether they know it or not.
 From creating maintainable code, to writing comments and docstrings, coding *is* writing.
 Documentation should be a chance for programmers and their collaborations to further communicate with users.
 
-This guide aims to help documentation maintainers with a set of recommendations for both technical elements and natural language (currently, English) grammar, stylem, and usage.
+This guide aims to help documentation maintainers with a set of recommendations for both technical elements and natural language (currently, English) grammar, style, and usage.
 The more existing documentation is revised to according to this style guide, the easier writing good documentation becomes.
 This can be done a little at a time.
 
