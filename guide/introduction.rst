@@ -13,7 +13,7 @@ This can be done a little at a time.
 On Tools
 --------
 
-Recommending specific documentation tools and platforms is outside the scope of **OpenChicago**.
+Recommending specific documentation tools and platforms is outside the scope of OpenChicago.
 The examples use ReStructedText, but many of the recommendations are applicable to a GitHub Markdown page, for example.
 
 .. .. note:: Some of the examples here are left intact from the original 1920 `source`_ text.
