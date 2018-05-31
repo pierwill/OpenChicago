@@ -4,9 +4,12 @@ Code
 Code Blocks
 -----------
 
-#. Code should always be set off vertically from the text.
+#. Code should always be set off vertically from the text and in a monospaced font.
+   Colored backgrounds and code syntax highlighting can be considered optional.
 
      .. code:: python
+
+	       #!/usr/bin/env python3
 
 	       # like this
 	       text = "unlike like this"
@@ -41,12 +44,12 @@ Commands
      Additional development packages need to be installed with ``apt``.
 
      Make sure to ``cd`` in the repo first.
-   
+
      There is going to be a lot of ``grep`` ing going on.
 
    (Note the hair space used in the last example to work around RST requiring spaces around inline literals.)
 
-      
+
 Paths
 -----
 
