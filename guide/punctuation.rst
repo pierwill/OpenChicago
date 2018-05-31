@@ -63,7 +63,7 @@ Colon
 
      He writes under the head of "Notes and Comments":
 
-     "Many a woman can testify to the truth of the old adage:"
+     [example]
 
 Semicolon
 ---------
@@ -273,7 +273,9 @@ Hyphens
 
      EXAMPLES
 
-   But do not connect by a hyphen adjectives or par- ticiples with adverbs ending in "-ly"; nor such combinations as the foregoing when following the noun, or qualifying a predicate: highly developed species; a man well known in the neighbor- hood; the fly-leaf, so called; "Her gown and carriage were strictly up to date."
+   But do not connect by a hyphen adjectives or par- ticiples with adverbs ending in "-ly"; nor such combinations as the foregoing when following the noun, or qualifying a predicate:
+
+     EXAMPLES
 
 #. Hyphenate, as a rule, nouns formed by the combination of two nouns standing in objective relation to each other that is, one of whose components is derived from a transitive verb:
 
@@ -293,7 +295,7 @@ Hyphens
 
      twofold, tenfold; fifteen fold, a hundred fold.
 
-#. Adjectives formed by the suffixation of "like" to a noun are usually printed as one word if the noun contains only one syllable (except when ending in /); if it contains more (or is a proper noun), they should be hyphenated:
+.. #. Adjectives formed by the suffixation of "like" to a noun are usually printed as one word if the noun contains only one syllable (except when ending in /); if it contains more (or is a proper noun), they should be hyphenated:
 
      childlike, homelike, warlike, godlike; eel-like, bell-like; woman-like, business-like; American -like (but: Christlike).
 
