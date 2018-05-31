@@ -12,18 +12,22 @@ Period
 
 #. Do not put a period in titles or section titles.
 
-#. The period is always placed inside the quotation marks, and inside the parentheses when the matter enclosed is an independent sentence and forms no part of the preceding sentence; otherwise outside
+#. Periods are always placed inside the quotation marks.
 
      The Terms of Service use the word "privacy."
 
-   When two parentheses form part of the preceding sentence, put the period outside (as, for instance, here).
+#. Periods are always placed inside the parentheses when the matter enclosed is an independent sentence and forms no part of the preceding sentence; otherwise outside.
+
+     Eric said he had paid the vendor. (He hadn't.)
+
+   When the parentheses form part of the preceding sentence as a whole, put the period outside (as, for instance, here).
 
      When two parentheses form part of the preceding sentence, put the period outside (as, for instance, here).
 
 Exclamation Point
 -----------------
 
-#. The exclamation point is used to mark an outcry or an emphatic or ironic utterance. They should be used sparringly, but do not be afraid of exclamation points!
+#. The exclamation point is used to mark an outcry or an emphatic or ironic utterance. Some people don't like them, but do not be afraid of exclamation points!
 
 #. Exclamation points are best used in documentation to express joy or warning.
 
@@ -33,6 +37,8 @@ Exclamation Point
 
 #. Exclamation points are placed inside the quotation marks or parentheses when part of the quotation or parenthetical matter; otherwise outside.
 
+   .. check on this
+
 Question Mark
 -------------
 
@@ -40,14 +46,14 @@ Question Mark
 
      "Who is this?"
 
-   Indirect questions should not be followed by a question mark.
+#. Indirect questions should not be followed by a question mark.
 
      The prompt will ask whether the user wants FAT32 or ExFAT.
 
 Colon
 -----
 
-#. the colon is used to mark a discontinuity of grammatical construction greater than that indicated by the semicolon and less than that indicated by the period. It is commonly used (i) to emphasize a close connection in thought between two clauses each of which forms a complete sentence, and which might with grammatical propriety be separated by a period; (2) to separate a clause which is grammatically complete from a second which contains an illustration or amplification of its meaning.
+#. The colon is used to mark a discontinuity of grammatical construction greater than that indicated by the semicolon and less than that indicated by the period. It is commonly used (i) to emphasize a close connection in thought between two clauses each of which forms a complete sentence, and which might with grammatical propriety be separated by a period; (2) to separate a clause which is grammatically complete from a second which contains an illustration or amplification of its meaning.
 
      "The fear of death is universal: even the lowest animals instinctively shrink from annihilation."
 
@@ -77,17 +83,23 @@ Comma
 
 #. The comma is used to indicate the smallest interruptions in continuity of thought or grammatical construction, the marking of which contributes to clearness.
 
-#. ("Oxford Comma") Put a comma before "and," "or," and "nor" connecting the last two links in a sequence of three or more; or all the links in a series of greater length, or where each individual link consists of several words; always put a comma before "etc.":
+#. Put a comma before "and," "or," and "nor" connecting the last two links in a sequence of three or more; or all the links in a series of greater length, or where each individual link consists of several words ("Oxford Comma").
 
-     Tom, Dick, and Harry; either copper, silver, or gold; "He was equally familiar with Homer, and Shakspere, and Moliere, and Cervantes, and Goethe, and Ibsen"; "Neither France for her art, nor Germany for her army, nor England for her democracy, etc."
+     [EXAMPLES]
 
-   But do not use a comma where "and," etc., serves to connect all of the links in a brief and close-knit phrase :
+#. Always put a comma before "etc.".
+
+     [EXAMPLE]
+
+..   But do not use a comma where "and," etc., serves to connect all of the links in a brief and close-knit phrase :
 
      "a man good and noble and true"; "I do not remember who wrote the stanza whether it was Shelley or Keats or Moore."
 
 #. Ordinarily, put a comma before and after clauses introduced by such conjunctions as "and," "but," "or," "if," "while," "as" (meaning "since"), "whereas," "since," "because," "when," "after," "although," etc., especially if a change of subject takes place:
 
-     When he arrived at the railway station, the train had gone, and his friend, who had come to bid him goodbye, had departed, but left no word. As the next train was not due for two hours, he decided to take a ride about the town, although it offered little of interest to the sightseer. While he regretted his failure to meet his friend, he did not go to his house.
+     When he arrived at the railway station, the train had gone, and his friend, who had come to bid him goodbye, had departed, but left no word.
+     As the next train was not due for two hours, he decided to take a ride about the town, although it offered little of interest to the sightseer.
+     While he regretted his failure to meet his friend, he did not go to his house.
 
 #. If among several adjectives preceding a noun the last bears a more direct relation to the noun than the others, it should not be preceded by a comma:
 
@@ -105,31 +117,32 @@ Comma
 
    ..     "Men addict themselves to inferior pleasures, not because they deliberately prefer them, but because they are the only ones to which they have access."
 
+   .. Participial clauses, especially such as contain an explanation of the main clause, should usually be set off by a comma:
+
 #. For parenthetical, adverbial, or appositional clauses or phrases use commas to indicate structurally disconnected, but logically integral, interpolations;
 
      Since, from the naturalistic point of view, mental states are the concomitants of physiological processes . . . .
 
-     The French, generally speaking, are a nation of artists
-
-     The English, highly democratic as they are, nevertheless deem the nobility fundamental to their political and social systems.
-
-     There was a time I forget the exact date when these conditions were changed.
-
 #. In adjectival phrases a complementary, qualifying, delimiting, or antithetical adjective added to the main epithet preceding a noun should ordinarily be preceded and followed by a comma:
 
-     "This harsh, though at the same time perfectly logical, conclusion"; "The deceased was a stern and unapproach- able, yet withal sympathetic and kind-hearted, gentleman " ; "Here comes in the most responsible, because it is the final, office of the teacher"; "The most sensitive, if not the most elusive, part of the training of children"; "The better a proverb is, the more trite it usually becomes."
+     "This harsh, though at the same time perfectly logical, conclusion";
+     ; "Here comes in the most responsible, because it is the final, office of the teacher";
+     "The better a proverb is, the more trite it usually becomes."
 
 #. Two or more co-ordinate clauses ending in a word governing or modifying another word in a following clause should be separated by commas :
 
-     ". . . . a shallow body of water connected with, but well protected from, the open sea"; "He was as tall as, though much younger than, his brother"; "The cultivation in our- selves of a sensitive feeling on the subject of veracity is one of the most useful, and the enfeeblement of that feeling one of the most hurtful, things"; "This road leads away from, rather than toward, your destination."
+     "...a shallow body of water connected with, but well protected from, the open sea";
+     "He was as tall as, though much younger than, his brother";
+     "The cultivation in ourselves of a sensitive feeling on the subject of veracity is one of the most useful, and the enfeeblement of that feeling one of the most hurtful, things";
+     "This road leads away from, rather than toward, your destination."
 
 #. A direct quotation, maxim, or similar expression, when brief, should be separated from the preceding part of the sentence by a comma.
 
-     "God said, Let there be light." [Bad example]
+     .. "God said, Let there be light." [Bad example]
 
-#. Put a comma after digits indicating thousands, 1 except in a date or in a page-reference and not between the constituents of dimensions, weights, and measures:
+#. Put a comma after digits indicating thousands, except in a date or in a page-reference and not between the constituents of dimensions, weights, and measures:
 
-     1,276, 10,419; 2200 BCE; p. 2461; 3 feet 6 inches; 4 Ib.  2 oz. ; 2 hr. 4 min.
+     1,276; 10,419; 2200 BCE; p. 2461; 3 feet 6 inches; 4 lb. 2 oz.; 2 hr. 4 min.
 
 #. Separate month and year and similar time divisions by a comma:
 
@@ -152,13 +165,14 @@ Apostrophe
      horses' tails; Scott's Ivanhoe, Jones's farms, Themistodes' era; for appearance' sake
 
 #. Do not use an apostraphe with the plural of numerals or letters.
-.. #. The plural of numerals, and of rare or artificial noun- coinages, is formed by the aid of an apostrophe and s; of proper nouns of more than one syllable ending in a sibilant, by adding an apostrophe alone (mono- syllabic proper names ending in a sibilant add es; others, s) (see 101) :
 
-     in the i goo's; in two's and three's, the three R's, the Y.M.C.A.'s; "these I-just-do-as-I-please's"; "all the Tommy Atkins' of England" (but: the Rosses and the Macdougals); the Pericles' and Socrates' of literature.
+   .. #. The plural of numerals, and of rare or artificial noun- coinages, is formed by the aid of an apostrophe and s; of proper nouns of more than one syllable ending in a sibilant, by adding an apostrophe alone (mono- syllabic proper names ending in a sibilant add es; others, s) (see 101) :
+
+      in the i goo's; in two's and three's, the three R's, the Y.M.C.A.'s; "these I-just-do-as-I-please's"; "all the Tommy Atkins' of England" (but: the Rosses and the Macdougals); the Pericles' and Socrates' of literature.
 
 Quotation Marks
 ---------------
-See Quotations.
+See `Quotations </guide/index.html#quotations>`_
 
 Dashes
 ------

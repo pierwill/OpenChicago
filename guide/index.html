@@ -49,7 +49,7 @@
 <li><a class="reference internal" href="#punctuation">Punctuation</a></li>
 <li><a class="reference internal" href="#capitalization">Capitalization</a></li>
 <li><a class="reference internal" href="#italics">Italics</a></li>
-<li><a class="reference internal" href="#quotations">Quotations</a></li>
+<li><a class="reference internal" href="#id1">Quotations</a></li>
 <li><a class="reference internal" href="#spelling">Spelling</a></li>
 <li><a class="reference internal" href="#links">Links</a></li>
 <li><a class="reference internal" href="#code">Code</a></li>
@@ -81,17 +81,17 @@
 </div>
 <div class="section" id="introduction">
 <h1>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline">¶</a></h1>
-<p>Readable, attractive documentation is essential to everything from usablility and maintainability to security.
-Programmers are writers, whether they know it or not.
+<p>Having readable, attractive documentation that people <em>want</em> to read is essential to everything from usablility and maintainability to security.
+And programmers are writers, whether they know it or not.
 From creating maintainable code, to writing comments and docstrings, coding <em>is</em> writing.
-Documentation should be a chance for programmers and their collaborations to further communicate with users.</p>
+Making documentation should be a chance for programmers and their teams to further their projects’ goals.</p>
 <p>This guide aims to help maintainers of documentation with a set of recommendations for both technical elements and natural language (currently, English) grammar, style, and usage.
 The more existing documentation is revised to according to this style guide, the easier writing good documentation becomes.
 This can be done a little at a time.</p>
 <div class="section" id="on-tools">
 <h2>On Tools<a class="headerlink" href="#on-tools" title="Permalink to this headline">¶</a></h2>
-<p>Recommending specific documentation tools and platforms is outside the scope of this guide.
-The examples use ReStructedText, but many of the recommendations are applicable to a GitHub <code class="docutils literal notranslate"><span class="pre">README</span></code> in Markdown, for example.</p>
+<p>Recommending specific documentation tools and platforms is outside the scope of <strong>OpenChicago</strong>.
+The examples use ReStructedText, but many of the recommendations are applicable to a GitHub Markdown page, for example.</p>
 <hr class="docutils" />
 </div>
 </div>
@@ -109,11 +109,16 @@ The examples use ReStructedText, but many of the recommendations are applicable 
 </li>
 <li><p class="first">Do not put a period in titles or section titles.</p>
 </li>
-<li><p class="first">The period is always placed inside the quotation marks, and inside the parentheses when the matter enclosed is an independent sentence and forms no part of the preceding sentence; otherwise outside</p>
+<li><p class="first">Periods are always placed inside the quotation marks.</p>
 <blockquote>
 <div><p>The Terms of Service use the word “privacy.”</p>
 </div></blockquote>
-<p>When two parentheses form part of the preceding sentence, put the period outside (as, for instance, here).</p>
+</li>
+<li><p class="first">Periods are always placed inside the parentheses when the matter enclosed is an independent sentence and forms no part of the preceding sentence; otherwise outside.</p>
+<blockquote>
+<div><p>Eric said he had paid the vendor. (He hadn’t.)</p>
+</div></blockquote>
+<p>When the parentheses form part of the preceding sentence as a whole, put the period outside (as, for instance, here).</p>
 <blockquote>
 <div><p>When two parentheses form part of the preceding sentence, put the period outside (as, for instance, here).</p>
 </div></blockquote>
@@ -123,7 +128,7 @@ The examples use ReStructedText, but many of the recommendations are applicable 
 <div class="section" id="exclamation-point">
 <h2>Exclamation Point<a class="headerlink" href="#exclamation-point" title="Permalink to this headline">¶</a></h2>
 <ol class="arabic">
-<li><p class="first">The exclamation point is used to mark an outcry or an emphatic or ironic utterance. They should be used sparringly, but do not be afraid of exclamation points!</p>
+<li><p class="first">The exclamation point is used to mark an outcry or an emphatic or ironic utterance. Some people don’t like them, but do not be afraid of exclamation points!</p>
 </li>
 <li><p class="first">Exclamation points are best used in documentation to express joy or warning.</p>
 <blockquote>
@@ -142,7 +147,8 @@ The examples use ReStructedText, but many of the recommendations are applicable 
 <blockquote>
 <div><p>“Who is this?”</p>
 </div></blockquote>
-<p>Indirect questions should not be followed by a question mark.</p>
+</li>
+<li><p class="first">Indirect questions should not be followed by a question mark.</p>
 <blockquote>
 <div><p>The prompt will ask whether the user wants FAT32 or ExFAT.</p>
 </div></blockquote>
@@ -152,7 +158,7 @@ The examples use ReStructedText, but many of the recommendations are applicable 
 <div class="section" id="colon">
 <h2>Colon<a class="headerlink" href="#colon" title="Permalink to this headline">¶</a></h2>
 <ol class="arabic">
-<li><p class="first">the colon is used to mark a discontinuity of grammatical construction greater than that indicated by the semicolon and less than that indicated by the period. It is commonly used (i) to emphasize a close connection in thought between two clauses each of which forms a complete sentence, and which might with grammatical propriety be separated by a period; (2) to separate a clause which is grammatically complete from a second which contains an illustration or amplification of its meaning.</p>
+<li><p class="first">The colon is used to mark a discontinuity of grammatical construction greater than that indicated by the semicolon and less than that indicated by the period. It is commonly used (i) to emphasize a close connection in thought between two clauses each of which forms a complete sentence, and which might with grammatical propriety be separated by a period; (2) to separate a clause which is grammatically complete from a second which contains an illustration or amplification of its meaning.</p>
 <blockquote>
 <div><p>“The fear of death is universal: even the lowest animals instinctively shrink from annihilation.”</p>
 <p>“Most countries have a national flower: France the lily, England the rose, etc.” “Lambert pine: the gigantic sugar pine of California.”</p>
@@ -188,18 +194,23 @@ The examples use ReStructedText, but many of the recommendations are applicable 
 <ol class="arabic">
 <li><p class="first">The comma is used to indicate the smallest interruptions in continuity of thought or grammatical construction, the marking of which contributes to clearness.</p>
 </li>
-<li><p class="first">(“Oxford Comma”) Put a comma before “and,” “or,” and “nor” connecting the last two links in a sequence of three or more; or all the links in a series of greater length, or where each individual link consists of several words; always put a comma before “etc.”:</p>
+<li><p class="first">Put a comma before “and,” “or,” and “nor” connecting the last two links in a sequence of three or more; or all the links in a series of greater length, or where each individual link consists of several words (“Oxford Comma”).</p>
 <blockquote>
-<div><p>Tom, Dick, and Harry; either copper, silver, or gold; “He was equally familiar with Homer, and Shakspere, and Moliere, and Cervantes, and Goethe, and Ibsen”; “Neither France for her art, nor Germany for her army, nor England for her democracy, etc.”</p>
-</div></blockquote>
-<p>But do not use a comma where “and,” etc., serves to connect all of the links in a brief and close-knit phrase :</p>
-<blockquote>
-<div><p>“a man good and noble and true”; “I do not remember who wrote the stanza whether it was Shelley or Keats or Moore.”</p>
+<div><p>[EXAMPLES]</p>
 </div></blockquote>
 </li>
+<li><p class="first">Always put a comma before “etc.”.</p>
+<blockquote>
+<div><p>[EXAMPLE]</p>
+</div></blockquote>
+</li>
+</ol>
+<ol class="arabic">
 <li><p class="first">Ordinarily, put a comma before and after clauses introduced by such conjunctions as “and,” “but,” “or,” “if,” “while,” “as” (meaning “since”), “whereas,” “since,” “because,” “when,” “after,” “although,” etc., especially if a change of subject takes place:</p>
 <blockquote>
-<div><p>When he arrived at the railway station, the train had gone, and his friend, who had come to bid him goodbye, had departed, but left no word. As the next train was not due for two hours, he decided to take a ride about the town, although it offered little of interest to the sightseer. While he regretted his failure to meet his friend, he did not go to his house.</p>
+<div><p>When he arrived at the railway station, the train had gone, and his friend, who had come to bid him goodbye, had departed, but left no word.
+As the next train was not due for two hours, he decided to take a ride about the town, although it offered little of interest to the sightseer.
+While he regretted his failure to meet his friend, he did not go to his house.</p>
 </div></blockquote>
 </li>
 <li><p class="first">If among several adjectives preceding a noun the last bears a more direct relation to the noun than the others, it should not be preceded by a comma:</p>
@@ -222,29 +233,30 @@ The examples use ReStructedText, but many of the recommendations are applicable 
 <li><p class="first">For parenthetical, adverbial, or appositional clauses or phrases use commas to indicate structurally disconnected, but logically integral, interpolations;</p>
 <blockquote>
 <div><p>Since, from the naturalistic point of view, mental states are the concomitants of physiological processes … .</p>
-<p>The French, generally speaking, are a nation of artists</p>
-<p>The English, highly democratic as they are, nevertheless deem the nobility fundamental to their political and social systems.</p>
-<p>There was a time I forget the exact date when these conditions were changed.</p>
 </div></blockquote>
 </li>
 <li><p class="first">In adjectival phrases a complementary, qualifying, delimiting, or antithetical adjective added to the main epithet preceding a noun should ordinarily be preceded and followed by a comma:</p>
 <blockquote>
-<div><p>“This harsh, though at the same time perfectly logical, conclusion”; “The deceased was a stern and unapproach- able, yet withal sympathetic and kind-hearted, gentleman ” ; “Here comes in the most responsible, because it is the final, office of the teacher”; “The most sensitive, if not the most elusive, part of the training of children”; “The better a proverb is, the more trite it usually becomes.”</p>
+<div><p>“This harsh, though at the same time perfectly logical, conclusion”;
+; “Here comes in the most responsible, because it is the final, office of the teacher”;
+“The better a proverb is, the more trite it usually becomes.”</p>
 </div></blockquote>
 </li>
 <li><p class="first">Two or more co-ordinate clauses ending in a word governing or modifying another word in a following clause should be separated by commas :</p>
 <blockquote>
-<div><p>“… . a shallow body of water connected with, but well protected from, the open sea”; “He was as tall as, though much younger than, his brother”; “The cultivation in our- selves of a sensitive feeling on the subject of veracity is one of the most useful, and the enfeeblement of that feeling one of the most hurtful, things”; “This road leads away from, rather than toward, your destination.”</p>
+<div><p>“…a shallow body of water connected with, but well protected from, the open sea”;
+“He was as tall as, though much younger than, his brother”;
+“The cultivation in ourselves of a sensitive feeling on the subject of veracity is one of the most useful, and the enfeeblement of that feeling one of the most hurtful, things”;
+“This road leads away from, rather than toward, your destination.”</p>
 </div></blockquote>
 </li>
 <li><p class="first">A direct quotation, maxim, or similar expression, when brief, should be separated from the preceding part of the sentence by a comma.</p>
 <blockquote>
-<div><p>“God said, Let there be light.” [Bad example]</p>
-</div></blockquote>
+<div></div></blockquote>
 </li>
-<li><p class="first">Put a comma after digits indicating thousands, 1 except in a date or in a page-reference and not between the constituents of dimensions, weights, and measures:</p>
+<li><p class="first">Put a comma after digits indicating thousands, except in a date or in a page-reference and not between the constituents of dimensions, weights, and measures:</p>
 <blockquote>
-<div><p>1,276, 10,419; 2200 BCE; p. 2461; 3 feet 6 inches; 4 Ib.  2 oz. ; 2 hr. 4 min.</p>
+<div><p>1,276; 10,419; 2200 BCE; p. 2461; 3 feet 6 inches; 4 lb. 2 oz.; 2 hr. 4 min.</p>
 </div></blockquote>
 </li>
 <li><p class="first">Separate month and year and similar time divisions by a comma:</p>
@@ -273,15 +285,13 @@ New Year’s Day, 1906</p>
 <div><p>horses’ tails; Scott’s Ivanhoe, Jones’s farms, Themistodes’ era; for appearance’ sake</p>
 </div></blockquote>
 </li>
+<li><p class="first">Do not use an apostraphe with the plural of numerals or letters.</p>
+</li>
 </ol>
-<p>#. Do not use an apostraphe with the plural of numerals or letters.
-.. #. The plural of numerals, and of rare or artificial noun- coinages, is formed by the aid of an apostrophe and s; of proper nouns of more than one syllable ending in a sibilant, by adding an apostrophe alone (mono- syllabic proper names ending in a sibilant add es; others, s) (see 101) :</p>
-<blockquote>
-<div>in the i goo’s; in two’s and three’s, the three R’s, the Y.M.C.A.’s; “these I-just-do-as-I-please’s”; “all the Tommy Atkins’ of England” (but: the Rosses and the Macdougals); the Pericles’ and Socrates’ of literature.</div></blockquote>
 </div>
 <div class="section" id="quotation-marks">
 <h2>Quotation Marks<a class="headerlink" href="#quotation-marks" title="Permalink to this headline">¶</a></h2>
-<p>See Quotations.</p>
+<p>See <a class="reference external" href="/guide/index.html#quotations">Quotations</a></p>
 </div>
 <div class="section" id="dashes">
 <h2>Dashes<a class="headerlink" href="#dashes" title="Permalink to this headline">¶</a></h2>
@@ -563,8 +573,8 @@ But do not italicize a letter used in the place of a name in hypothetical statem
 </li>
 </ol>
 </div>
-<div class="section" id="quotations">
-<h1>Quotations<a class="headerlink" href="#quotations" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="id1">
+<h1>Quotations<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h1>
 <ol class="arabic">
 <li><p class="first">Citations, run into the text, of a passage from an author in her own words</p>
 </li>
@@ -697,9 +707,12 @@ the drives. Talk to your SecureDrop administrator if you have trouble.
 <div class="section" id="code-blocks">
 <h2>Code Blocks<a class="headerlink" href="#code-blocks" title="Permalink to this headline">¶</a></h2>
 <ol class="arabic">
-<li><p class="first">Code should always be set off vertically from the text.</p>
+<li><p class="first">Code should always be set off vertically from the text and in a monospaced font.
+Colored backgrounds and code syntax highlighting can be considered optional.</p>
 <blockquote>
-<div><div class="code python highlight-default notranslate"><div class="highlight"><pre><span></span><span class="c1"># like this</span>
+<div><div class="code python highlight-default notranslate"><div class="highlight"><pre><span></span><span class="ch">#!/usr/bin/env python3</span>
+
+<span class="c1"># like this</span>
 <span class="n">text</span> <span class="o">=</span> <span class="s2">&quot;unlike like this&quot;</span>
 <span class="n">words</span> <span class="o">=</span> <span class="n">text</span><span class="o">.</span><span class="n">split</span><span class="p">()</span>
 <span class="n">new_text</span> <span class="o">=</span> <span class="nb">str</span><span class="p">(</span><span class="n">words</span><span class="p">[</span><span class="mi">1</span><span class="p">])</span> <span class="o">+</span> <span class="s2">&quot; &quot;</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">words</span><span class="p">[</span><span class="mi">2</span><span class="p">])</span>
