@@ -18,6 +18,12 @@ Italics
 
    .. ; and also (as a rule) single sen- tences or brief passages not of sufficient length to call for reduced type (see 85)
 
+   However, see next rule.
+
+#. Do not italicize CJKV (Chinese, Japanese, Korean, Vietnamese) characters.
+
+     云输入
+
 #. Titles of publications, books.
 
      *The Design of the UNIX Operating System* by Maurice Bach; *Learning Python* by Mark Lutz
