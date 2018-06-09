@@ -16,8 +16,6 @@ Italics
 
      [example]
 
-   .. ; and also (as a rule) single sen- tences or brief passages not of sufficient length to call for reduced type (see 85)
-
    However, see next rule.
 
 #. Do not italicize CJKV (Chinese, Japanese, Korean, Vietnamese) characters.
@@ -26,11 +24,13 @@ Italics
 
 #. Titles of publications, books.
 
-     *The Design of the UNIX Operating System* by Maurice Bach; *Learning Python* by Mark Lutz
+     *The Design of the UNIX Operating System* by Maurice Bach
+
+     *Learning Python* by Mark Lutz
 
 #. Do not italicize:
 
-     cf., e.g., i.e.
+     cf., i.e., e.g.
 
      .. (See list of abbreviations)
 
@@ -42,7 +42,7 @@ Italics
 
      At the point *A* above (see diagram).
 
-     [still recommended?]
+     ..  still recommended?
 
 #. References to particular letters and characters: the letter *u*, a small *v*, a capital *S*.
    But do not italicize a letter used in the place of a name in hypothetical statements:

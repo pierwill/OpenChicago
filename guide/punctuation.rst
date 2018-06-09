@@ -238,23 +238,7 @@ Ellipses
 
 #. Ellipses are used to indicate the omission, from a quotation, of one or more words not essential to the idea which it is desired to convey, and also to indicate illegible words, mutilations, and other lacunae in a document, manuscript, or other mate- rial which is quoted. For an ellipsis at the begin- ning, in the middle, or at the end of a sentence four periods, separated by a space (en quad), should ordinarily be used, except in very narrow measures (in French three only, with no space between).  If the preceding line ends in a point, this should not be included in the four. Where a "whole para- graph, or paragraphs, or, in poetry, a complete line, or lines, are omitted, insert a full line of periods, separated by em- or 2-em quads, according to the length of the line. But the periods should not extend beyond the length of the longest type-line:
 
-     The point . . . . is that the same forces .... are still
-
-     the undercurrents of every human life We may
-
-     never unravel the methods of the physical forces; .....  but ....
-
-     I think it worth giving you these details, because it is a vague thing, though a perfectly true thing, to say that it was by his genius that Alexander conquered the eastern world.
-
-     His army, you know, was a small one. To carry a
-
-     vast number of men ....
-
-     "Aux armes! ... aux armes! ... les Prussiens!"
-
-     "Je n'ecris que ce que j'ai vu, entendu, senti ou eprouve
-
-     moi-me'me ... j'ai deja publie quelques petits ouvrages ..."
+  [EXAMPLES?]
 
 #. An ellipsis should be treated as a part of the citation; consequently should be inclosed in the quotation marks (see 178 [3]).
 

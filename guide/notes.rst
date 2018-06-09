@@ -10,7 +10,9 @@ Notes, Warnings, etc.
 .. _warn:
    
 #. Warnings should be reserved for security issues or when there is a risk of
-   serious data loss or hardware damage. ::
+   serious data loss or hardware damage.
+
+   .. code-block:: text
 
      .. warning:: **Do not** transfer source material off the *Secure Viewing
                   Station* for decryption. Instead, transfer cryptographic keys

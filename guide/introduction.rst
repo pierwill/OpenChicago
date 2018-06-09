@@ -1,8 +1,8 @@
 Introduction
 ============
 
+Programmers are writers, whether they know it or not.
 Having readable, attractive documentation that people *want* to read is essential to everything from usablility and maintainability to security.
-And programmers are writers, whether they know it or not.
 From creating maintainable code, to writing comments and docstrings, coding *is* writing.
 Making documentation should be a chance for programmers and their teams to further their projects' goals.
 
