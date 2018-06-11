@@ -17,11 +17,11 @@ Capitalize:
 
 #. The first word after a colon only when introducing a complete passage, or sentence which would have independent meaning, as in summarizations and quotations not closely connected with what precedes; or where the colon has the weight of such expres- sion as "as follows," "namely," "for instance," or a similar phrase, and is followed by a logically com- plete sentence:
 
-      "In conclusion I wish to say: It will be seen from the above that ...."; "As the old proverb has it: 'Haste makes waste'"; "My theory is: The moment the hot current strikes the surface . . . ."
+     "In conclusion I wish to say: It will be seen from the above that ...."; "As the old proverb has it: 'Haste makes waste'"; "My theory is: The moment the hot current strikes the surface . . . ."
 
-    But do not capitalize the first word of a quotation if immediately connected with what precedes (unless, as the first word of a sentence, beginning a paragraph in reduced type) ; or the first word after a colon, if an implied "namely," or a similar term, is followed by a brief explanatory phrase, logically dependent upon the preceding clause:
+   But do not capitalize the first word of a quotation if immediately connected with what precedes (unless, as the first word of a sentence, beginning a paragraph in reduced type) ; or the first word after a colon, if an implied "namely," or a similar term, is followed by a brief explanatory phrase, logically dependent upon the preceding clause:
 
-      "The old adage is true that 'haste makes waste'"; "Two explanations present themselves: either he came too late for the train, or he was detained at the station."
+     "The old adage is true that 'haste makes waste'"; "Two explanations present themselves: either he came too late for the train, or he was detained at the station."
 
 .. #. As a rule, the first word in sections of an enumer tion, if any one link contains two or more distinct clauses, separated by a semicolon, colon, or period, unless all are dependent upon the same term preceding and leading up to them (see 138) :
 
@@ -63,9 +63,7 @@ Titles
 
      "Set-Up the Server"
 
-   But do not capitalize such components when other than nouns:
-
-     Fifty-first Street, "Lives of Well-known Authors," "World- Dominion of English-speaking Peoples."
+   .. But do not capitalize such components when other than nouns:
 
 Lower Case
 ----------

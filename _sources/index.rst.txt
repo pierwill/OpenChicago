@@ -15,5 +15,8 @@ OpenChicago was inspired by reading the last public-domain edition of the *Chica
 
 (*This project is not affiliated with the University of Chicago or University of Chicago Press.*)
 
+.. image:: https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png
+	   :target: http://creativecommons.org/licenses/by-nc-sa/4.0/
+
 .. _`(7th edition, 1920)`: https://archive.org/details/manualofstylecon00univiala
 .. _`SecureDrop`: https://docs.securedrop.org/en/latest/

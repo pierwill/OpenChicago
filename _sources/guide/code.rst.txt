@@ -47,7 +47,7 @@ Commands
 
      There is going to be a lot of ``grep`` ing going on.
 
-   (Note the hair space used in the last example to work around RST requiring spaces around inline literals.)
+   (Note the hair space [U+200A] used in the last example to work around RST requiring spaces around inline literals.)
 
 
 Paths
