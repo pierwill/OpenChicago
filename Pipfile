@@ -4,10 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-sphinx = "*"
+pyyaml ~> 4.2b1.
 sphinx-autobuild = "*"
+sphinx = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.6"
+python_version = "3.7"
